@@ -1,0 +1,90 @@
+{
+ "event": {
+  "slug": "las-vegas-grand-prix",
+  "name": "Las Vegas Grand Prix",
+  "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Las%20Vegas%20Grand%20Prix",
+  "doc_count": 2,
+  "first_published": "2026-11-18T00:00",
+  "last_published": "2026-11-18T00:21",
+  "first_local": "2026-11-17T15:00",
+  "last_local": "2026-11-17T15:21",
+  "utc_offset_min": -480,
+  "tz_source": "name",
+  "sessions": [
+   {
+    "name": "Practice 1",
+    "start_local": "2026-11-19T16:30",
+    "end_local": "2026-11-19T17:30",
+    "start_utc": "2026-11-20T00:30Z",
+    "end_utc": "2026-11-20T01:30Z",
+    "source": "f1"
+   },
+   {
+    "name": "Practice 2",
+    "start_local": "2026-11-19T20:00",
+    "end_local": "2026-11-19T21:00",
+    "start_utc": "2026-11-20T04:00Z",
+    "end_utc": "2026-11-20T05:00Z",
+    "source": "f1"
+   },
+   {
+    "name": "Practice 3",
+    "start_local": "2026-11-20T16:30",
+    "end_local": "2026-11-20T17:30",
+    "start_utc": "2026-11-21T00:30Z",
+    "end_utc": "2026-11-21T01:30Z",
+    "source": "f1"
+   },
+   {
+    "name": "Qualifying",
+    "start_local": "2026-11-20T20:00",
+    "end_local": "2026-11-20T21:00",
+    "start_utc": "2026-11-21T04:00Z",
+    "end_utc": "2026-11-21T05:00Z",
+    "source": "f1"
+   },
+   {
+    "name": "Race",
+    "start_local": "2026-11-21T20:00",
+    "end_local": "2026-11-21T22:00",
+    "start_utc": "2026-11-22T04:00Z",
+    "end_utc": "2026-11-22T06:00Z",
+    "source": "f1"
+   }
+  ],
+  "location": {
+   "circuit": "Las Vegas Strip Circuit",
+   "lat": 36.1147,
+   "lon": -115.1728
+  },
+  "counts": {
+   "race_director": 1,
+   "admin": 1
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 2,
+   "title": "Doc 2 - Competition Notes - Pirelli Preview",
+   "subject": "Competition Notes - Pirelli Preview",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_competition_notes_-_pirelli_preview.pdf",
+   "published": "2026-11-18T00:21",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-17T15:21"
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - Competition Visa",
+   "subject": "Competition Visa",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_competition_visa.pdf",
+   "published": "2026-11-18T00:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-17T15:00"
+  }
+ ]
+}
