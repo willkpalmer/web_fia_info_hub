@@ -3,11 +3,11 @@
   "slug": "las-vegas-grand-prix",
   "name": "Las Vegas Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Las%20Vegas%20Grand%20Prix",
-  "doc_count": 3,
+  "doc_count": 6,
   "first_published": "2026-11-18T00:00",
-  "last_published": "2026-11-18T00:42",
+  "last_published": "2026-11-19T08:16",
   "first_local": "2026-11-17T15:00",
-  "last_local": "2026-11-17T15:42",
+  "last_local": "2026-11-18T23:16",
   "utc_offset_min": -480,
   "tz_source": "name",
   "sessions": [
@@ -58,13 +58,46 @@
    "lon": -115.1728
   },
   "counts": {
+   "race_director": 4,
    "technical": 1,
-   "race_director": 1,
    "admin": 1
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 6,
+   "title": "Doc 6 - Competition Notes - Circuit Map, Pit Lane Drawing, Emergency Exits Map and Red Zone",
+   "subject": "Competition Notes - Circuit Map, Pit Lane Drawing, Emergency Exits Map and Red Zone",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_emergency_exits_map_and_red_zone.pdf",
+   "published": "2026-11-19T08:16",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-18T23:16"
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - Race Director's Competition Notes",
+   "subject": "Race Director's Competition Notes",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_race_directors_competition_notes.pdf",
+   "published": "2026-11-19T07:54",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-18T22:54"
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - Car Display Procedure",
+   "subject": "Car Display Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_car_display_procedure.pdf",
+   "published": "2026-11-19T05:02",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-18T20:02"
+  },
   {
    "num": 3,
    "title": "Doc 3 - Power Unit Information",
