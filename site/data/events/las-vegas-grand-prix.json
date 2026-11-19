@@ -3,11 +3,11 @@
   "slug": "las-vegas-grand-prix",
   "name": "Las Vegas Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Las%20Vegas%20Grand%20Prix",
-  "doc_count": 6,
+  "doc_count": 10,
   "first_published": "2026-11-18T00:00",
-  "last_published": "2026-11-19T08:16",
+  "last_published": "2026-11-19T23:30",
   "first_local": "2026-11-17T15:00",
-  "last_local": "2026-11-18T23:16",
+  "last_local": "2026-11-19T14:30",
   "utc_offset_min": -480,
   "tz_source": "name",
   "sessions": [
@@ -58,13 +58,57 @@
    "lon": -115.1728
   },
   "counts": {
-   "race_director": 4,
-   "technical": 1,
-   "admin": 1
+   "admin": 2,
+   "technical": 4,
+   "race_director": 4
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 10,
+   "title": "Doc 10 - Entry List",
+   "subject": "Entry List",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_entry_list.pdf",
+   "published": "2026-11-19T23:30",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-19T14:30"
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - Car Presentation Submissions",
+   "subject": "Car Presentation Submissions",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_car_presentation_submissions.pdf",
+   "published": "2026-11-19T23:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-19T14:00"
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - Self Scrutineering",
+   "subject": "Self Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_self_scrutineering.pdf",
+   "published": "2026-11-19T22:56",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-19T13:56"
+  },
+  {
+   "num": 7,
+   "title": "Doc 7 - PU Elements used per Driver up to now",
+   "subject": "PU Elements used per Driver up to now",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf",
+   "published": "2026-11-19T22:56",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-19T13:56"
+  },
   {
    "num": 6,
    "title": "Doc 6 - Competition Notes - Circuit Map, Pit Lane Drawing, Emergency Exits Map and Red Zone",
