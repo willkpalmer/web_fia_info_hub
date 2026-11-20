@@ -14706,6 +14706,441 @@
    "published_local": "2026-03-27T13:50"
   },
   {
+   "event": "Las Vegas Grand Prix",
+   "event_slug": "las-vegas-grand-prix",
+   "num": 23,
+   "title": "Doc 23 - Infringement - Free Practice 2 Deleted Lap Times - Double Yellow Flags",
+   "subject": "Infringement - Free Practice 2 Deleted Lap Times - Double Yellow Flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times_-_double_yellow_flags.pdf",
+   "published": "2026-11-20T07:30",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 2",
+    "fact": "The F1 Cars passed through a double waved yellow flag marshalling sector.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "14": 1,
+     "81": 1,
+     "12": 1,
+     "16": 1,
+     "27": 1
+    },
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     23
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-19T22:30"
+  },
+  {
+   "event": "Las Vegas Grand Prix",
+   "event_slug": "las-vegas-grand-prix",
+   "num": 22,
+   "title": "Doc 22 - Infringement - Free Practice 2 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 2 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times.pdf",
+   "published": "2026-11-20T07:26",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 2",
+    "fact": "The F1 Cars below did not use the track at turns 1, 5, 8, 12 and 14.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "14": 2,
+     "5": 5,
+     "3": 1,
+     "1": 3,
+     "27": 2,
+     "63": 1,
+     "87": 2,
+     "11": 1,
+     "43": 1,
+     "10": 1,
+     "55": 1,
+     "23": 2,
+     "18": 1,
+     "51": 3,
+     "44": 1,
+     "12": 2,
+     "16": 1
+    },
+    "drivers": [
+     {
+      "car": 14,
+      "name": "Fernando Alonso"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 51,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     22
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-19T22:26"
+  },
+  {
+   "event": "Las Vegas Grand Prix",
+   "event_slug": "las-vegas-grand-prix",
+   "num": 20,
+   "title": "Doc 20 - Infringement - Car 87 - Changes to PU elements",
+   "subject": "Infringement - Car 87 - Changes to PU elements",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_infringement_-_car_87_-_changes_to_pu_elements.pdf",
+   "published": "2026-11-20T06:46",
+   "recalled": false,
+   "cars": [
+    87
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "87 - Oliver Bearman",
+    "competitor": "TGR Haas F1 Team",
+    "time": "20:03",
+    "session": "Free Practice 2",
+    "fact": "The following Power Unit elements have been used: 5th Engine (ICE) 5th Turbocharger (TC) 5th Exhaust Set (EXH) 5th MGU-K",
+    "infringement": "Breaches of Articles B8.2.2 a) and b) and c) and f) (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 35 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8 of the FIA F1 Regulations. In this case, the use of the (MGU-K) carries a 5 grid place penalty by virtue of Article B8.2.8 b) of the FIA F1 Regulations and the use of the (ICE), (TC) and (EXH) additional element(s) carries a 10 grid place penalty by virtue of Article B8.2.8 a) of the FIA F1 Regulations. Therefore, there is an accumulation of 35 places. Subject to Car 87 being classified in the results of Qualifying, Car 87 will be allocated a grid position in the Race in accordance with Article B2.5.4b.iv of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     }
+    ],
+    "refs": [
+     14,
+     20
+    ],
+    "tags": [
+     "35-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    14
+   ],
+   "published_local": "2026-11-19T21:46"
+  },
+  {
+   "event": "Las Vegas Grand Prix",
+   "event_slug": "las-vegas-grand-prix",
+   "num": 19,
+   "title": "Doc 19 - Infringement - Car 18 - Changes to PU elements",
+   "subject": "Infringement - Car 18 - Changes to PU elements",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_infringement_-_car_18_-_changes_to_pu_elements.pdf",
+   "published": "2026-11-20T06:33",
+   "recalled": false,
+   "cars": [
+    18
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "18 - Lance Stroll",
+    "competitor": "Aston Martin Aramco F1 Team",
+    "time": "20:03",
+    "session": "Free Practice 2",
+    "fact": "The following Power Unit elements have been used: 9th Energy Store (ES) 8th Control Electronics Unit (PU-CE)",
+    "infringement": "Breaches of Articles B8.2.2 d) and e) (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 10 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8b of the FIA F1 Regulations. The use of each additional element in this case carries a 5 grid place penalty therefore there is an accumulation of 10 places.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     }
+    ],
+    "refs": [
+     14,
+     19
+    ],
+    "tags": [
+     "10-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    14
+   ],
+   "published_local": "2026-11-19T21:33"
+  },
+  {
+   "event": "Las Vegas Grand Prix",
+   "event_slug": "las-vegas-grand-prix",
+   "num": 18,
+   "title": "Doc 18 - Infringement - Car 55 - Changes to PU element",
+   "subject": "Infringement - Car 55 - Changes to PU element",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_infringement_-_car_55_-_changes_to_pu_element.pdf",
+   "published": "2026-11-20T06:33",
+   "recalled": false,
+   "cars": [
+    55
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "55 - Carlos Sainz",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "20:03",
+    "session": "Free Practice 2",
+    "fact": "The following Power Unit elements have been used: 5th Turbocharger (TC)",
+    "infringement": "Breaches of Articles B8.2.2b (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 10 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8a of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     }
+    ],
+    "refs": [
+     14,
+     18
+    ],
+    "tags": [
+     "10-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    14
+   ],
+   "published_local": "2026-11-19T21:33"
+  },
+  {
+   "event": "Las Vegas Grand Prix",
+   "event_slug": "las-vegas-grand-prix",
+   "num": 17,
+   "title": "Doc 17 - Infringement - Car 12 - Changes to PU element",
+   "subject": "Infringement - Car 12 - Changes to PU element",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_infringement_-_car_12_-_changes_to_pu_element.pdf",
+   "published": "2026-11-20T06:34",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "12 - Kimi Antonelli",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "time": "20:03",
+    "session": "Free Practice 2",
+    "fact": "The following Power Unit elements have been used: 6th Engine (ICE)",
+    "infringement": "Breach of Articles B8.2.2a (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 5 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8b of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     }
+    ],
+    "refs": [
+     14,
+     17
+    ],
+    "tags": [
+     "5-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    14
+   ],
+   "published_local": "2026-11-19T21:34"
+  },
+  {
+   "event": "Las Vegas Grand Prix",
+   "event_slug": "las-vegas-grand-prix",
+   "num": 16,
+   "title": "Doc 16 - Infringement - Car 81 - Changes to PU element",
+   "subject": "Infringement - Car 81 - Changes to PU element",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_infringement_-_car_81_-_changes_to_pu_element.pdf",
+   "published": "2026-11-20T07:11",
+   "recalled": false,
+   "cars": [
+    81
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "81 - Oscar Piastri",
+    "competitor": "McLaren Mastercard F1 Team",
+    "time": "20:03",
+    "session": "Free Practice 2",
+    "fact": "The following Power Unit elements have been used: 5th Engine (ICE)",
+    "infringement": "Breach of Articles B8.2.2a (read with B8.2.3) of the FIA F1 Regulations.",
+    "decision": "Drop of 10 grid positions for the next Race in which the driver participates.",
+    "reason": "The penalty is imposed in accordance with Article B8.2.8a of the FIA F1 Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     }
+    ],
+    "refs": [
+     14,
+     16
+    ],
+    "tags": [
+     "10-place grid drop"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    14
+   ],
+   "published_local": "2026-11-19T22:11"
+  },
+  {
+   "event": "Las Vegas Grand Prix",
+   "event_slug": "las-vegas-grand-prix",
+   "num": 11,
+   "title": "Doc 11 - Infringement - Free Practice 1 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf",
+   "published": "2026-11-20T02:45",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 1",
+    "fact": "The F1 Cars below did not use the track at turn 14",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "23": 1,
+     "27": 1
+    },
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     11
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-19T17:45"
+  },
+  {
    "event": "Mexico City Grand Prix",
    "event_slug": "mexico-city-grand-prix",
    "num": 85,
