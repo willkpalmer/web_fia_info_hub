@@ -1,5 +1,5 @@
 {
- "list_fetched": "2026-11-20T07:00:06.318196+00:00",
+ "list_fetched": "2026-11-20T21:16:38.701111+00:00",
  "races": {
   "australia": {
    "fetched": "2026-11-06T15:56:03.522317+00:00",
@@ -405,7 +405,7 @@
    ]
   },
   "las-vegas": {
-   "fetched": "2026-11-20T18:17:37.755233+00:00",
+   "fetched": "2026-11-20T21:16:38.701111+00:00",
    "name": "FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026",
    "sessions": [
     {
@@ -560,7 +560,7 @@
    ]
   },
   "qatar": {
-   "fetched": "2026-11-20T18:17:37.755233+00:00",
+   "fetched": "2026-11-20T21:16:38.701111+00:00",
    "name": "FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2026",
    "sessions": [
     {
