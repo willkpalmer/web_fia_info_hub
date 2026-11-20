@@ -3,11 +3,11 @@
   "slug": "las-vegas-grand-prix",
   "name": "Las Vegas Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Las%20Vegas%20Grand%20Prix",
-  "doc_count": 25,
+  "doc_count": 28,
   "first_published": "2026-11-18T00:00",
-  "last_published": "2026-11-20T08:04",
+  "last_published": "2026-11-20T23:21",
   "first_local": "2026-11-17T15:00",
-  "last_local": "2026-11-19T23:04",
+  "last_local": "2026-11-20T14:21",
   "utc_offset_min": -480,
   "tz_source": "pdf",
   "sessions": [
@@ -58,15 +58,48 @@
    "lon": -115.1728
   },
   "counts": {
+   "race_director": 10,
    "admin": 3,
    "technical": 6,
    "stewards": 8,
-   "race_director": 7,
    "results": 1
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 28,
+   "title": "Doc 28 - Post-Qualifying Procedure",
+   "subject": "Post-Qualifying Procedure",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_post-qualifying_procedure.pdf",
+   "published": "2026-11-20T23:21",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-20T14:21"
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - Competition Notes - Pirelli Preview V3",
+   "subject": "Competition Notes - Pirelli Preview V3",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_competition_notes_-_pirelli_preview_v3.pdf",
+   "published": "2026-11-20T22:52",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-20T13:52"
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - Curfew",
+   "subject": "Curfew",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_curfew.pdf",
+   "published": "2026-11-20T22:52",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-20T13:52"
+  },
   {
    "num": 25,
    "title": "Doc 25 - Timetable V3",
@@ -517,6 +550,7 @@
    "published": "2026-11-20T04:27",
    "recalled": false,
    "cars": [],
+   "superseded_by": 27,
    "published_local": "2026-11-19T19:27"
   },
   {
@@ -668,7 +702,7 @@
    "published": "2026-11-18T00:21",
    "recalled": false,
    "cars": [],
-   "superseded_by": 13,
+   "superseded_by": 27,
    "published_local": "2026-11-17T15:21"
   },
   {
