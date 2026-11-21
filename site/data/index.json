@@ -1351,11 +1351,11 @@
    "slug": "las-vegas-grand-prix",
    "name": "Las Vegas Grand Prix",
    "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Las%20Vegas%20Grand%20Prix",
-   "doc_count": 49,
+   "doc_count": 51,
    "first_published": "2026-11-18T00:00",
-   "last_published": "2026-11-21T08:45",
+   "last_published": "2026-11-21T23:49",
    "first_local": "2026-11-17T15:00",
-   "last_local": "2026-11-20T23:45",
+   "last_local": "2026-11-21T14:49",
    "utc_offset_min": -480,
    "tz_source": "pdf",
    "sessions": [
@@ -1406,10 +1406,10 @@
     "lon": -115.1728
    },
    "counts": {
+    "race_director": 12,
     "results": 5,
     "technical": 9,
     "stewards": 22,
-    "race_director": 10,
     "admin": 3
    },
    "round": 21
