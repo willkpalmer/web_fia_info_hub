@@ -3,11 +3,11 @@
   "slug": "las-vegas-grand-prix",
   "name": "Las Vegas Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Las%20Vegas%20Grand%20Prix",
-  "doc_count": 28,
+  "doc_count": 33,
   "first_published": "2026-11-18T00:00",
-  "last_published": "2026-11-20T23:21",
+  "last_published": "2026-11-21T02:46",
   "first_local": "2026-11-17T15:00",
-  "last_local": "2026-11-20T14:21",
+  "last_local": "2026-11-20T17:46",
   "utc_offset_min": -480,
   "tz_source": "pdf",
   "sessions": [
@@ -58,15 +58,144 @@
    "lon": -115.1728
   },
   "counts": {
+   "results": 2,
+   "stewards": 12,
    "race_director": 10,
    "admin": 3,
-   "technical": 6,
-   "stewards": 8,
-   "results": 1
+   "technical": 6
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 33,
+   "title": "Doc 33 - Free Practice 3 Classification",
+   "subject": "Free Practice 3 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_free_practice_3_classification.pdf",
+   "published": "2026-11-21T02:46",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-20T17:46"
+  },
+  {
+   "num": 32,
+   "title": "Doc 32 - Summons - Car 63 - Alleged incident with car 3",
+   "subject": "Summons - Car 63 - Alleged incident with car 3",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_summons_-_car_63_-_alleged_incident_with_car_3.pdf",
+   "published": "2026-11-21T02:46",
+   "recalled": false,
+   "cars": [
+    3,
+    63
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "63 - George Russell",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 d) and/or e) of the FIA International Sporting Code – Turn 14 incident between Cars 63 and 3 at 17:23.",
+    "from": "The Stewards",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     32
+    ]
+   },
+   "published_local": "2026-11-20T17:46"
+  },
+  {
+   "num": 31,
+   "title": "Doc 31 - Summons - Car 3 - Alleged incident with car 63",
+   "subject": "Summons - Car 3 - Alleged incident with car 63",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_summons_-_car_3_-_alleged_incident_with_car_63.pdf",
+   "published": "2026-11-21T02:44",
+   "recalled": false,
+   "cars": [
+    3,
+    63
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "3 - Max Verstappen",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 d) and/or e) of the FIA International Sporting Code – Turn 14 incident between Cars 3 and 63 at 17:23.",
+    "from": "The Stewards",
+    "competitor": "Oracle Red Bull Racing",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     }
+    ],
+    "refs": [
+     31
+    ]
+   },
+   "published_local": "2026-11-20T17:44"
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - Summons - Car 23 - Alleged erratic driving in turn 17",
+   "subject": "Summons - Car 23 - Alleged erratic driving in turn 17",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_summons_-_car_23_-_alleged_erratic_driving_in_turn_17.pdf",
+   "published": "2026-11-21T02:33",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "23 - Alexander Albon",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 e) of the FIA International Sporting Code – Driving erratically at 17:03.",
+    "from": "The Stewards",
+    "competitor": "Atlassian Williams F1 Team",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     }
+    ],
+    "refs": [
+     30
+    ]
+   },
+   "published_local": "2026-11-20T17:33"
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - Summons - Car 3 - Alleged erratic driving in turn 16",
+   "subject": "Summons - Car 3 - Alleged erratic driving in turn 16",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_summons_-_car_3_-_alleged_erratic_driving_in_turn_16.pdf",
+   "published": "2026-11-21T02:32",
+   "recalled": false,
+   "cars": [
+    3
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "3 - Max Verstappen",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 e) of the FIA International Sporting Code – Driving erratically at 16:33.",
+    "from": "The Stewards",
+    "competitor": "Oracle Red Bull Racing",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     }
+    ],
+    "refs": [
+     29
+    ]
+   },
+   "published_local": "2026-11-20T17:32"
+  },
   {
    "num": 28,
    "title": "Doc 28 - Post-Qualifying Procedure",
