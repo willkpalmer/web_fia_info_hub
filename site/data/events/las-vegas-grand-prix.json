@@ -3,11 +3,11 @@
   "slug": "las-vegas-grand-prix",
   "name": "Las Vegas Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Las%20Vegas%20Grand%20Prix",
-  "doc_count": 33,
+  "doc_count": 49,
   "first_published": "2026-11-18T00:00",
-  "last_published": "2026-11-21T02:46",
+  "last_published": "2026-11-21T08:45",
   "first_local": "2026-11-17T15:00",
-  "last_local": "2026-11-20T17:46",
+  "last_local": "2026-11-20T23:45",
   "utc_offset_min": -480,
   "tz_source": "pdf",
   "sessions": [
@@ -58,15 +58,604 @@
    "lon": -115.1728
   },
   "counts": {
-   "results": 2,
-   "stewards": 12,
+   "results": 5,
+   "technical": 9,
+   "stewards": 22,
    "race_director": 10,
-   "admin": 3,
-   "technical": 6
+   "admin": 3
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 49,
+   "title": "Doc 49 - Provisional Starting Grid",
+   "subject": "Provisional Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_provisional_starting_grid.pdf",
+   "published": "2026-11-21T08:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-20T23:45"
+  },
+  {
+   "num": 48,
+   "title": "Doc 48 - Final Qualifying Classification",
+   "subject": "Final Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_final_qualifying_classification.pdf",
+   "published": "2026-11-21T08:40",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-20T23:40"
+  },
+  {
+   "num": 47,
+   "title": "Doc 47 - FP3 and Qualifying Scrutineering",
+   "subject": "FP3 and Qualifying Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_fp3_and_qualifying_scrutineering.pdf",
+   "published": "2026-11-21T08:32",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-20T23:32"
+  },
+  {
+   "num": 46,
+   "title": "Doc 46 - Decision - Car 87 - Permission to start",
+   "subject": "Decision - Car 87 - Permission to start",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_decision_-_car_87_-_permission_to_start.pdf",
+   "published": "2026-11-21T08:17",
+   "recalled": false,
+   "cars": [
+    87
+   ],
+   "type": "Decision",
+   "details": {
+    "from": "The Stewards",
+    "summary": "In accordance with Article B2.4.3b of the FIA F1 Regulations, the Stewards determine the following F1 Car is eligible to start the Race: 1. 87 - Oliver Bearman – TGR Haas F1 Team The F1 Car will be placed on the grid in accordance with Article B2.5.4 of the FIA F1 Regulations.",
+    "competitor": "TGR Haas F1 Team",
+    "refs": [
+     46
+    ]
+   },
+   "published_local": "2026-11-20T23:17"
+  },
+  {
+   "num": 45,
+   "title": "Doc 45 - Infringement - Car 41 Unsafe Release",
+   "subject": "Infringement - Car 41 Unsafe Release",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_infringement_-_car_41_unsafe_release.pdf",
+   "published": "2026-11-21T07:44",
+   "recalled": false,
+   "cars": [
+    41
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "41 - Arvid Lindblad",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "time": "20:29",
+    "session": "Qualifying",
+    "fact": "Car 41 was released in an unsafe manner into the path of Car 23.",
+    "infringement": "Breach of Article B1.6.2a of the FIA F1 Regulations.",
+    "decision": "The competitor (Visa Cash App Racing Bulls F1 Team) is fined €5,000.",
+    "reason": "The Stewards heard from the team representative and reviewed video and in-car video evidence. Car 41 (LIN) was released from its pit position into the path of Car 23 (ALB), which was approaching in the fast lane. The Stewards determined that this constituted an unsafe release. During the hearing, the team representative acknowledged that the release was unsafe and explained that a malfunction of the radio communication system had affected the coordination of the release procedure. The Stewards accepted this explanation and acknowledged that the communication failure was not intentional. However, the circumstances leading to the release do not alter the fact that Car 41 was released into the path of another car. The Stewards noted that reliable communication is an important element of a safe release procedure and that appropriate backup arrangements should be available in the event of a communication failure.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     }
+    ],
+    "refs": [
+     45
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 5000
+   },
+   "published_local": "2026-11-20T22:44"
+  },
+  {
+   "num": 44,
+   "title": "Doc 44 - Decision - Qualifying SC2-SC1 Times",
+   "subject": "Decision - Qualifying SC2-SC1 Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_decision_-_qualifying_sc2-sc1_times.pdf",
+   "published": "2026-11-21T06:45",
+   "recalled": false,
+   "cars": [],
+   "type": "Decision",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The F1 Cars below exceeded the 2:00.0 time limit between the Safety Car lines.",
+    "infringement": "Alleged breach of Article B1.8.5 of the FIA F1 Regulations and Article 12.2.1.i of the FIA International Sporting Code (non-compliance with the Race Director’s Competition Notes, item 1, document 12).",
+    "decision": "No further action.",
+    "from": "The Stewards",
+    "reason": "The Stewards thoroughly reviewed Marshalling/Positioning data, timing data, on-board cameras and CCTV cameras. All drivers concerned stayed at or above speeds necessary to stay below 2:00.0 around the vast majority of the circuit. However, in all cases the Stewards determined that the drivers took appropriate actions to not impede other drivers, and in all cases, they slowed down significantly to allow other drivers to pass while giving those drivers a clear track. The Stewards therefore determine that all drivers concerned did not drive “unnecessarily slowly”, and that they were above the maximum time because they took appropriate steps, and we therefore take no further action.",
+    "table_rows": {
+     "41": 1,
+     "3": 1,
+     "16": 1,
+     "81": 1,
+     "1": 1
+    },
+    "drivers": [
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     }
+    ],
+    "refs": [
+     12,
+     44
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    12
+   ],
+   "published_local": "2026-11-20T21:45"
+  },
+  {
+   "num": 43,
+   "title": "Doc 43 - Covers-On Time - Corrected",
+   "subject": "Covers-On Time - Corrected",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_covers-on_time_-_corrected.pdf",
+   "published": "2026-11-21T06:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-20T21:45"
+  },
+  {
+   "num": 42,
+   "title": "Doc 42 - Infringement - Qualifying Deleted Lap Times",
+   "subject": "Infringement - Qualifying Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_infringement_-_qualifying_deleted_lap_times.pdf",
+   "published": "2026-11-21T06:38",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "The F1 Cars below did not use the track at turns 1, 5, 8, 12 and 14.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "1": 1,
+     "51": 1,
+     "44": 3,
+     "41": 1,
+     "87": 2,
+     "3": 1,
+     "43": 4,
+     "81": 2,
+     "6": 1,
+     "12": 1,
+     "27": 1,
+     "16": 3,
+     "63": 1,
+     "10": 1
+    },
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 51,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     }
+    ],
+    "refs": [
+     42
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-20T21:38"
+  },
+  {
+   "num": 41,
+   "title": "Doc 41 - Covers-on Time",
+   "subject": "Covers-on Time",
+   "category": "technical",
+   "url": null,
+   "published": "2026-11-21T06:38",
+   "recalled": true,
+   "cars": [],
+   "published_local": "2026-11-20T21:38"
+  },
+  {
+   "num": 40,
+   "title": "Doc 40 - Provisional Qualifying Classification",
+   "subject": "Provisional Qualifying Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_provisional_qualifying_classification.pdf",
+   "published": "2026-11-21T06:20",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-20T21:20"
+  },
+  {
+   "num": 39,
+   "title": "Doc 39 - Summons - Car 41 - Alleged Unsafe Release",
+   "subject": "Summons - Car 41 - Alleged Unsafe Release",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_summons_-_car_41_-_alleged_unsafe_release.pdf",
+   "published": "2026-11-21T05:47",
+   "recalled": false,
+   "cars": [
+    41
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "41 - Arvid Lindblad",
+    "reason": "Alleged breach of Article B1.6.2a of the FIA F1 Regulations –Unsafe release by Car 41 at 20:29.",
+    "from": "The Stewards",
+    "competitor": "Visa Cash App Racing Bulls F1 Team",
+    "drivers": [
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     }
+    ],
+    "refs": [
+     39
+    ]
+   },
+   "published_local": "2026-11-20T20:47"
+  },
+  {
+   "num": 38,
+   "title": "Doc 38 - Decision - Alleged Driving Erratically",
+   "subject": "Decision - Alleged Driving Erratically",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_decision_-_alleged_driving_erratically.pdf",
+   "published": "2026-11-21T05:21",
+   "recalled": false,
+   "cars": [],
+   "type": "Decision",
+   "details": {
+    "no_driver": "3 - Max Verstappen",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "16:33",
+    "session": "Free Practice 3",
+    "fact": "Car 3 engaged in a series of moves on the entry of T17 in front of Car 43",
+    "infringement": "Alleged breach of Appendix L, Chapter IV, Article 2 e) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards heard from the driver of Car 3 (Max Verstappen), team representative and reviewed video, telemetry, team radio and in-car video evidence. Both cars were on out laps approaching the corner, with Car 3 (VER) ahead of Car 43 (COL). Car 3 was weaving from side to side while Car 43 approached from behind at a slightly higher speed. As Car 43 completed the overtaking, Car 3 moved toward the the right-hand side of the track and Car 43 passed on the left. The driver of Car 3 explained that he was weaving to warm his tyres up and that he could not use more energy due to issues he had with his engine earlier in the lap. In contrast, the driver of Car 43 deployed a significant amount of energy which allowed him to overtake Car 3 and caught the driver of Car 3 by surprise. He stated that he had not expected Car 43 to attempt an overtake because both were on a preparation lap and approaching the last turn. Once he became aware of the overtaking manoeuvre, he remained on the right-hand side of the track to allow Car 43 to pass without issue. The Stewards considered the movements (i. e. weaving) of Car 3, the fact that Car 3 experienced some issues with the engine earlier in the lap and that it had an impact on the energy deployment, the fact that both cars were on out laps, the relative speeds of the two cars and the circumstances of the overtaking manoeuvre which was ultimately completed without issue. The Stewards acknowledged that weaving to maintain tyre temperature is common during the preparation for a flying lap. In this case, when the driver of Car 3 realised that Car 43 was overtaking, he immediately stopped the weaving and maintained his position on the right-hand side and allowed Car 43 to pass. Taking into account the issue that lead to a lack of energy deployment, the relatively small speed differential and the absence of any further movement towards Car 43, the Stewards concluded that there were mitigating elements. The Stewards therefore determined to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     }
+    ],
+    "refs": [
+     29,
+     38
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    29
+   ],
+   "published_local": "2026-11-20T20:21"
+  },
+  {
+   "num": 37,
+   "title": "Doc 37 - Infringement - Car 3 - Erratic Driving in Turn 14",
+   "subject": "Infringement - Car 3 - Erratic Driving in Turn 14",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_infringement_-_car_3_-_erratic_driving_in_turn_14.pdf",
+   "published": "2026-11-21T05:09",
+   "recalled": false,
+   "cars": [
+    3
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "3 - Max Verstappen",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "17:23",
+    "session": "Free Practice 3",
+    "fact": "Driving erratically at Turn 14",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 e) of the FIA International Sporting Code.",
+    "decision": "Driver: Warning.",
+    "reason": "The Stewards heard from the driver of Car 3 (Max Verstappen), the driver of Car 63 (George Russell), team representatives and reviewed video, telemetry, team radio and in-car video evidence. Both cars were approaching Turn 14, with Car 3 ahead of Car 63. Car 3 braked earlier than expected and changed direction under braking. Car 63, approaching from behind, moved to the left and attempted to overtake on the inside. During the manoeuvre, the front axle of Car 63 was ahead of the mirror of Car 3. The two cars subsequently made contact. During the hearing, the drivers also discussed the informal gentlemen's agreements concerning the preparation for a flying lap and the conduct expected between drivers in such situations. The Stewards noted these explanations but considered that such informal understandings were of limited relevance to the assessment of the incident. The decisive considerations were the actual movements of both cars and their relative positions. The Stewards therefore examined the braking and change of direction of Car 3, the evasive manoeuvre and positioning of Car 63 and taking into account the applicable Driving Standards Guidelines. The Stewards considered that Car 3's change of direction under braking was unpredictable and contributed to the situation in which Car 63 had to move to the inside to avoid contact. While the Stewards did not consider the manoeuvre sufficiently serious to warrant a more severe penalty, they concluded that changing direction under braking in these circumstances fell below the standard of driving expected. Taking into account the circumstances of the incident, the Stewards determined that a Driver Warning was appropriate.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     }
+    ],
+    "refs": [
+     31,
+     37
+    ],
+    "tags": [
+     "Warning"
+    ],
+    "outcome": "warning"
+   },
+   "related": [
+    31
+   ],
+   "published_local": "2026-11-20T20:09"
+  },
+  {
+   "num": 36,
+   "title": "Doc 36 - Infringement - Car 23 - Erratic Driving in Turn 17",
+   "subject": "Infringement - Car 23 - Erratic Driving in Turn 17",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_infringement_-_car_23_-_erratic_driving_in_turn_17.pdf",
+   "published": "2026-11-21T05:04",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "23 - Alexander Albon",
+    "competitor": "Atlassian Williams F1 Team",
+    "time": "17:03",
+    "session": "Free Practice 3",
+    "fact": "Car 23 was driven erratically in an incident involving Car 6 at Turn 17",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 e) of the FIA International Sporting Code.",
+    "decision": "Driver: Reprimand (Driving).",
+    "reason": "The Stewards heard from the driver of Car 23 (Alexander Albon), team representative and reviewed video, timing, telemetry, team radio and in-car video evidence. Both cars were approaching Turn 17, with Car 23 (ALB) ahead of Car 6 (HAD). Car 23 was weaving to try keeping temperature in the tyres and preparing for his next flying lap. Car 6 approached from behind at a significantly higher speed, with a speed differential of approximately 60 km/h. As the cars approached Turn 17, Car 23 moved towards the inside of the corner to take his normal racing line, but into the path of Car 6. The driver of Car 6 had to brake heavily to avoid a collision. The driver of Car 23 explained that he was preparing for his next flying lap and needed to maintain tyre temperature while also managing his battery status. He stated that he had not expected Car 6 to close so quickly. The Stewards considered the movements of Car 23, the significant speed differential between the two cars and the need for Car 6 to take evasive action. In particular, the Stewards examined whether the driving of Car 23 was unpredictable or potentially dangerous, taking into account the circumstances of his preparation for the following lap. The Stewards acknowledged that weaving to maintain tyre temperature is common when preparing for a flying lap. However, drivers must remain aware of approaching traffic and ensure that their movements do not create potentially dangerous situations. In this case, Car 23 moved towards the inside of Turn 17 while Car 6 was approaching at a significantly higher speed, forcing the driver of Car 6 to brake heavily to avoid contact. The Stewards considered this movement to be unpredictable and potentially dangerous, irrespective of the driver's intention to prepare for his next flying lap. The Stewards therefore determined that the driving of Car 23 constituted erratic driving and imposed a driving reprimand.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     }
+    ],
+    "refs": [
+     30,
+     36
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    30
+   ],
+   "published_local": "2026-11-20T20:04"
+  },
+  {
+   "num": 35,
+   "title": "Doc 35 - Infringement - Free Practice 3 Deleted Lap Times - Double Yellow Flags",
+   "subject": "Infringement - Free Practice 3 Deleted Lap Times - Double Yellow Flags",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_infringement_-_free_practice_3_deleted_lap_times_-_double_yellow_flags.pdf",
+   "published": "2026-11-21T04:47",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 3",
+    "fact": "The F1 Cars passed through a double waved yellow flag marshalling sector.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "27": 1
+    },
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     35
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-20T19:47"
+  },
+  {
+   "num": 34,
+   "title": "Doc 34 - Infringement - Free Practice 3 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 3 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_infringement_-_free_practice_3_deleted_lap_times.pdf",
+   "published": "2026-11-21T04:47",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 3",
+    "fact": "The F1 Cars below did not use the track at turns 1, 5, 8, 12 and 14.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "44": 5,
+     "41": 1,
+     "51": 2,
+     "55": 3,
+     "12": 1,
+     "43": 1,
+     "23": 1,
+     "63": 2,
+     "10": 2,
+     "77": 1,
+     "3": 4,
+     "27": 1,
+     "1": 1,
+     "18": 2,
+     "16": 1,
+     "81": 1,
+     "87": 1
+    },
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 51,
+      "name": "Rafael Camara"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     }
+    ],
+    "refs": [
+     34
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-20T19:47"
+  },
   {
    "num": 33,
    "title": "Doc 33 - Free Practice 3 Classification",
@@ -136,6 +725,9 @@
      31
     ]
    },
+   "related": [
+    37
+   ],
    "published_local": "2026-11-20T17:44"
   },
   {
@@ -165,6 +757,9 @@
      30
     ]
    },
+   "related": [
+    36
+   ],
    "published_local": "2026-11-20T17:33"
   },
   {
@@ -194,6 +789,9 @@
      29
     ]
    },
+   "related": [
+    38
+   ],
    "published_local": "2026-11-20T17:32"
   },
   {
@@ -691,6 +1289,9 @@
    "published": "2026-11-20T03:43",
    "recalled": false,
    "cars": [],
+   "related": [
+    44
+   ],
    "published_local": "2026-11-19T18:43"
   },
   {
