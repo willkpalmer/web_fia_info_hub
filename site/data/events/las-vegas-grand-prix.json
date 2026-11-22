@@ -3,11 +3,11 @@
   "slug": "las-vegas-grand-prix",
   "name": "Las Vegas Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Las%20Vegas%20Grand%20Prix",
-  "doc_count": 62,
+  "doc_count": 63,
   "first_published": "2026-11-18T00:00",
-  "last_published": "2026-11-22T08:28",
+  "last_published": "2026-11-22T08:33",
   "first_local": "2026-11-17T15:00",
-  "last_local": "2026-11-21T23:28",
+  "last_local": "2026-11-21T23:33",
   "utc_offset_min": -480,
   "tz_source": "pdf",
   "sessions": [
@@ -58,15 +58,26 @@
    "lon": -115.1728
   },
   "counts": {
+   "technical": 11,
    "stewards": 30,
    "results": 7,
-   "technical": 10,
    "race_director": 12,
    "admin": 3
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 63,
+   "title": "Doc 63 - Race Scrutineering",
+   "subject": "Race Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_race_scrutineering.pdf",
+   "published": "2026-11-22T08:33",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-21T23:33"
+  },
   {
    "num": 62,
    "title": "Doc 62 - Infringement - Race Deleted Lap Times",
