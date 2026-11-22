@@ -3,11 +3,11 @@
   "slug": "las-vegas-grand-prix",
   "name": "Las Vegas Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Las%20Vegas%20Grand%20Prix",
-  "doc_count": 51,
+  "doc_count": 53,
   "first_published": "2026-11-18T00:00",
-  "last_published": "2026-11-21T23:49",
+  "last_published": "2026-11-22T04:00",
   "first_local": "2026-11-17T15:00",
-  "last_local": "2026-11-21T14:49",
+  "last_local": "2026-11-21T19:00",
   "utc_offset_min": -480,
   "tz_source": "pdf",
   "sessions": [
@@ -58,15 +58,37 @@
    "lon": -115.1728
   },
   "counts": {
+   "results": 6,
+   "technical": 10,
    "race_director": 12,
-   "results": 5,
-   "technical": 9,
    "stewards": 22,
    "admin": 3
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 53,
+   "title": "Doc 53 - Final Starting Grid",
+   "subject": "Final Starting Grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_final_starting_grid.pdf",
+   "published": "2026-11-22T04:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-21T19:00"
+  },
+  {
+   "num": 52,
+   "title": "Doc 52 - Parts and Parameters been replaced and or changed during Parc Ferme",
+   "subject": "Parts and Parameters been replaced and or changed during Parc Ferme",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_parc_ferme.pdf",
+   "published": "2026-11-22T03:52",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-21T18:52"
+  },
   {
    "num": 51,
    "title": "Doc 51 - Post-Race Procedure",
