@@ -3,11 +3,11 @@
   "slug": "las-vegas-grand-prix",
   "name": "Las Vegas Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Las%20Vegas%20Grand%20Prix",
-  "doc_count": 53,
+  "doc_count": 58,
   "first_published": "2026-11-18T00:00",
-  "last_published": "2026-11-22T04:00",
+  "last_published": "2026-11-22T06:45",
   "first_local": "2026-11-17T15:00",
-  "last_local": "2026-11-21T19:00",
+  "last_local": "2026-11-21T21:45",
   "utc_offset_min": -480,
   "tz_source": "pdf",
   "sessions": [
@@ -58,15 +58,89 @@
    "lon": -115.1728
   },
   "counts": {
+   "stewards": 27,
    "results": 6,
    "technical": 10,
    "race_director": 12,
-   "stewards": 22,
    "admin": 3
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 58,
+   "title": "Doc 58 - Summons - Incident between Car 63 and Car 6",
+   "subject": "Summons - Incident between Car 63 and Car 6",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_summons_-_incident_between_car_63_and_car_6.pdf",
+   "published": "2026-11-22T06:45",
+   "recalled": false,
+   "cars": [
+    6,
+    63
+   ],
+   "type": "Summons",
+   "published_local": "2026-11-21T21:45"
+  },
+  {
+   "num": 57,
+   "title": "Doc 57 - Summons - Incident between Car 6 and Car 63",
+   "subject": "Summons - Incident between Car 6 and Car 63",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_summons_-_incident_between_car_6_and_car_63.pdf",
+   "published": "2026-11-22T06:37",
+   "recalled": false,
+   "cars": [
+    6,
+    63
+   ],
+   "type": "Summons",
+   "published_local": "2026-11-21T21:37"
+  },
+  {
+   "num": 56,
+   "title": "Doc 56 - Summons - Car 51 - Alleged causing a collision with Car 11",
+   "subject": "Summons - Car 51 - Alleged causing a collision with Car 11",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_summons_-_car_51_-_alleged_causing_a_collision_with_car_11.pdf",
+   "published": "2026-11-22T06:36",
+   "recalled": false,
+   "cars": [
+    11,
+    51
+   ],
+   "type": "Summons",
+   "published_local": "2026-11-21T21:36"
+  },
+  {
+   "num": 55,
+   "title": "Doc 55 - Summons - Car 11 - Alleged causing a collision with Car 51",
+   "subject": "Summons - Car 11 - Alleged causing a collision with Car 51",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_summons_-_car_11_-_alleged_causing_a_collision_with_car_51.pdf",
+   "published": "2026-11-22T06:35",
+   "recalled": false,
+   "cars": [
+    11,
+    51
+   ],
+   "type": "Summons",
+   "published_local": "2026-11-21T21:35"
+  },
+  {
+   "num": 54,
+   "title": "Doc 54 - Infringement - Car 44 - Leaving the track and gaining an advantage",
+   "subject": "Infringement - Car 44 - Leaving the track and gaining an advantage",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_infringement_-_car_44_-_leaving_the_track_and_gaining_an_advantage.pdf",
+   "published": "2026-11-22T06:25",
+   "recalled": false,
+   "cars": [
+    44
+   ],
+   "type": "Infringement",
+   "published_local": "2026-11-21T21:25"
+  },
   {
    "num": 53,
    "title": "Doc 53 - Final Starting Grid",

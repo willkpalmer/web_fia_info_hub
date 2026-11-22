@@ -609,73 +609,6 @@
    "round": 9
   },
   {
-   "slug": "belgian-grand-prix",
-   "name": "Belgian Grand Prix",
-   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Belgian%20Grand%20Prix",
-   "doc_count": 64,
-   "first_published": "2026-07-15T16:11",
-   "last_published": "2026-07-19T19:20",
-   "first_local": "2026-07-15T16:11",
-   "last_local": "2026-07-19T19:20",
-   "utc_offset_min": 120,
-   "tz_source": "pdf",
-   "sessions": [
-    {
-     "name": "Practice 1",
-     "start_local": "2026-07-17T13:30",
-     "end_local": "2026-07-17T14:30",
-     "start_utc": "2026-07-17T11:30Z",
-     "end_utc": "2026-07-17T12:30Z",
-     "source": "fia"
-    },
-    {
-     "name": "Practice 2",
-     "start_local": "2026-07-17T17:00",
-     "end_local": "2026-07-17T18:00",
-     "start_utc": "2026-07-17T15:00Z",
-     "end_utc": "2026-07-17T16:00Z",
-     "source": "fia"
-    },
-    {
-     "name": "Practice 3",
-     "start_local": "2026-07-18T12:30",
-     "end_local": "2026-07-18T13:30",
-     "start_utc": "2026-07-18T10:30Z",
-     "end_utc": "2026-07-18T11:30Z",
-     "source": "fia"
-    },
-    {
-     "name": "Qualifying",
-     "start_local": "2026-07-18T16:00",
-     "end_local": "2026-07-18T17:00",
-     "start_utc": "2026-07-18T14:00Z",
-     "end_utc": "2026-07-18T15:00Z",
-     "source": "fia"
-    },
-    {
-     "name": "Race",
-     "start_local": "2026-07-19T15:00",
-     "end_local": "2026-07-19T17:00",
-     "start_utc": "2026-07-19T13:00Z",
-     "end_utc": "2026-07-19T15:00Z",
-     "source": "fia"
-    }
-   ],
-   "location": {
-    "circuit": "Spa-Francorchamps",
-    "lat": 50.4372,
-    "lon": 5.9714
-   },
-   "counts": {
-    "results": 10,
-    "stewards": 32,
-    "technical": 12,
-    "race_director": 7,
-    "admin": 3
-   },
-   "round": 10
-  },
-  {
    "slug": "hungarian-grand-prix",
    "name": "Hungarian Grand Prix",
    "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Hungarian%20Grand%20Prix",
@@ -740,7 +673,7 @@
     "race_director": 11,
     "admin": 2
    },
-   "round": 11
+   "round": 10
   },
   {
    "slug": "dutch-grand-prix",
@@ -807,7 +740,7 @@
     "race_director": 13,
     "admin": 2
    },
-   "round": 12
+   "round": 11
   },
   {
    "slug": "italian-grand-prix",
@@ -874,7 +807,7 @@
     "race_director": 12,
     "admin": 2
    },
-   "round": 13
+   "round": 12
   },
   {
    "slug": "spanish-grand-prix",
@@ -941,7 +874,7 @@
     "race_director": 11,
     "admin": 4
    },
-   "round": 14
+   "round": 13
   },
   {
    "slug": "azerbaijan-grand-prix",
@@ -1008,7 +941,7 @@
     "technical": 13,
     "admin": 3
    },
-   "round": 15
+   "round": 14
   },
   {
    "slug": "bahrain-grand-prix",
@@ -1075,7 +1008,7 @@
     "race_director": 12,
     "admin": 3
    },
-   "round": 16
+   "round": 15
   },
   {
    "slug": "singapore-grand-prix",
@@ -1142,74 +1075,7 @@
     "race_director": 15,
     "admin": 3
    },
-   "round": 17
-  },
-  {
-   "slug": "united-states-grand-prix",
-   "name": "United States Grand Prix",
-   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/United%20States%20Grand%20Prix",
-   "doc_count": 58,
-   "first_published": "2026-10-21T19:35",
-   "last_published": "2026-10-26T11:30",
-   "first_local": "2026-10-21T12:35",
-   "last_local": "2026-10-26T05:30",
-   "utc_offset_min": -300,
-   "tz_source": "pdf",
-   "sessions": [
-    {
-     "name": "Practice 1",
-     "start_local": "2026-10-23T12:30",
-     "end_local": "2026-10-23T13:30",
-     "start_utc": "2026-10-23T17:30Z",
-     "end_utc": "2026-10-23T18:30Z",
-     "source": "fia"
-    },
-    {
-     "name": "Practice 2",
-     "start_local": "2026-10-23T16:00",
-     "end_local": "2026-10-23T17:00",
-     "start_utc": "2026-10-23T21:00Z",
-     "end_utc": "2026-10-23T22:00Z",
-     "source": "fia"
-    },
-    {
-     "name": "Practice 3",
-     "start_local": "2026-10-24T12:30",
-     "end_local": "2026-10-24T13:30",
-     "start_utc": "2026-10-24T17:30Z",
-     "end_utc": "2026-10-24T18:30Z",
-     "source": "fia"
-    },
-    {
-     "name": "Qualifying",
-     "start_local": "2026-10-24T16:00",
-     "end_local": "2026-10-24T17:00",
-     "start_utc": "2026-10-24T21:00Z",
-     "end_utc": "2026-10-24T22:00Z",
-     "source": "fia"
-    },
-    {
-     "name": "Race",
-     "start_local": "2026-10-25T15:00",
-     "end_local": "2026-10-25T17:00",
-     "start_utc": "2026-10-25T20:00Z",
-     "end_utc": "2026-10-25T22:00Z",
-     "source": "fia"
-    }
-   ],
-   "location": {
-    "circuit": "Circuit of the Americas",
-    "lat": 30.1328,
-    "lon": -97.6411
-   },
-   "counts": {
-    "results": 10,
-    "technical": 12,
-    "stewards": 23,
-    "race_director": 10,
-    "admin": 3
-   },
-   "round": 18
+   "round": 16
   },
   {
    "slug": "mexico-city-grand-prix",
@@ -1277,7 +1143,7 @@
     "admin": 5,
     "other": 1
    },
-   "round": 19
+   "round": 17
   },
   {
    "slug": "sao-paulo-grand-prix",
@@ -1345,17 +1211,17 @@
     "admin": 5,
     "other": 1
    },
-   "round": 20
+   "round": 18
   },
   {
    "slug": "las-vegas-grand-prix",
    "name": "Las Vegas Grand Prix",
    "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Las%20Vegas%20Grand%20Prix",
-   "doc_count": 53,
+   "doc_count": 58,
    "first_published": "2026-11-18T00:00",
-   "last_published": "2026-11-22T04:00",
+   "last_published": "2026-11-22T06:45",
    "first_local": "2026-11-17T15:00",
-   "last_local": "2026-11-21T19:00",
+   "last_local": "2026-11-21T21:45",
    "utc_offset_min": -480,
    "tz_source": "pdf",
    "sessions": [
@@ -1406,13 +1272,13 @@
     "lon": -115.1728
    },
    "counts": {
+    "stewards": 27,
     "results": 6,
     "technical": 10,
     "race_director": 12,
-    "stewards": 22,
     "admin": 3
    },
-   "round": 21
+   "round": 19
   }
  ],
  "categories": [
@@ -1514,7 +1380,7 @@
   },
   "34": {
    "name": "Jak Crawford",
-   "team": "Aston Martin Aramco F1 Team"
+   "team": null
   },
   "38": {
    "name": "Dino Beganovic",
