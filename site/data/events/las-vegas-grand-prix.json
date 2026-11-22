@@ -3,11 +3,11 @@
   "slug": "las-vegas-grand-prix",
   "name": "Las Vegas Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Las%20Vegas%20Grand%20Prix",
-  "doc_count": 64,
+  "doc_count": 66,
   "first_published": "2026-11-18T00:00",
-  "last_published": "2026-11-22T09:11",
+  "last_published": "2026-11-22T09:25",
   "first_local": "2026-11-17T15:00",
-  "last_local": "2026-11-22T00:11",
+  "last_local": "2026-11-22T00:25",
   "utc_offset_min": -480,
   "tz_source": "pdf",
   "sessions": [
@@ -58,15 +58,37 @@
    "lon": -115.1728
   },
   "counts": {
+   "results": 9,
    "stewards": 31,
    "technical": 11,
-   "results": 7,
    "race_director": 12,
    "admin": 3
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 66,
+   "title": "Doc 66 - Championship Points",
+   "subject": "Championship Points",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_championship_points.pdf",
+   "published": "2026-11-22T09:25",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-22T00:25"
+  },
+  {
+   "num": 65,
+   "title": "Doc 65 - Final Race Classification",
+   "subject": "Final Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_final_race_classification.pdf",
+   "published": "2026-11-22T09:20",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-22T00:20"
+  },
   {
    "num": 64,
    "title": "Doc 64 - Infringement - Car 6 - Driving unnecessarily slowly",
