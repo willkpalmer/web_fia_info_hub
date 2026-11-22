@@ -14708,6 +14708,50 @@
   {
    "event": "Las Vegas Grand Prix",
    "event_slug": "las-vegas-grand-prix",
+   "num": 64,
+   "title": "Doc 64 - Infringement - Car 6 - Driving unnecessarily slowly",
+   "subject": "Infringement - Car 6 - Driving unnecessarily slowly",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_infringement_-_car_6_-_driving_unnecessarily_slowly.pdf",
+   "published": "2026-11-22T09:11",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "6 - Isack Hadjar",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "20:35",
+    "session": "Race",
+    "fact": "Driving unnecessarily slowly under Safety Car conditions.",
+    "infringement": "Breach of Article B 5.13.2 of the Formula One Sporting Regulations.",
+    "decision": "10 seconds time penalty. (10 seconds added to elapsed Race time).",
+    "reason": "The Stewards heard from the driver of Car 6 (Isack Hadjar) and his team representative as well as the team representative of Mercedes-AMG Petronas F1 team and reviewed positioning/marshalling system data, video, timing, telemetry, team radio and in-car video evidence. While driving on the straight between Turns 13 and 14 under Safety Car conditions, the driver of Car 6 received repeated instructions from his team stating \"five seconds, five seconds, five seconds\". Following these instructions, Car 6 significantly reduced its speed, at one point travelling approximately 100 km/h slower than Car 3, which was ahead of it. The Stewards determined that this significant reduction in speed was deliberate and intended to create a gap to the car ahead and was not made for safety reasons, thereby allowing the team to perform a double-stack pit stop without Car 6 losing time waiting behind its teammate in the pit lane. Furthermore, this manoeuvre directly impacted the cars following Car 6, which were forced to reduce their speed accordingly and could not overtake Car 6 due to the restrictions applicable under Safety Car conditions. The Stewards considered that Car 6 was driving unnecessarily slowly for tactical reasons and that such conduct constituted a breach of the applicable regulations. In reaching their decision, the Stewards also took into account the precedent involving Car 4 (Norris) at the 2023 Canadian Grand Prix, where a penalty was imposed for similar conduct. The Stewards imposed a 10 seconds time penalty which is consistent with the 2026 F1 Penalty Guidelines.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     }
+    ],
+    "refs": [
+     57,
+     64
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "related": [
+    57
+   ],
+   "published_local": "2026-11-22T00:11"
+  },
+  {
+   "event": "Las Vegas Grand Prix",
+   "event_slug": "las-vegas-grand-prix",
    "num": 62,
    "title": "Doc 62 - Infringement - Race Deleted Lap Times",
    "subject": "Infringement - Race Deleted Lap Times",
