@@ -3,11 +3,11 @@
   "slug": "las-vegas-grand-prix",
   "name": "Las Vegas Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Las%20Vegas%20Grand%20Prix",
-  "doc_count": 58,
+  "doc_count": 60,
   "first_published": "2026-11-18T00:00",
-  "last_published": "2026-11-22T06:45",
+  "last_published": "2026-11-22T07:11",
   "first_local": "2026-11-17T15:00",
-  "last_local": "2026-11-21T21:45",
+  "last_local": "2026-11-21T22:11",
   "utc_offset_min": -480,
   "tz_source": "pdf",
   "sessions": [
@@ -58,8 +58,8 @@
    "lon": -115.1728
   },
   "counts": {
-   "stewards": 27,
-   "results": 6,
+   "stewards": 28,
+   "results": 7,
    "technical": 10,
    "race_director": 12,
    "admin": 3
@@ -67,6 +67,56 @@
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 60,
+   "title": "Doc 60 - Infringement - Car 16 - Causing a collision with Car 44",
+   "subject": "Infringement - Car 16 - Causing a collision with Car 44",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_infringement_-_car_16_-_causing_a_collision_with_car_44.pdf",
+   "published": "2026-11-22T07:11",
+   "recalled": false,
+   "cars": [
+    16,
+    44
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "16 - Charles Leclerc",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "21:11",
+    "session": "Race",
+    "fact": "Car 16 collided with Car 44 at Turn 7.",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code.",
+    "decision": "10 second time penalty.",
+    "reason": "The Stewards reviewed video and in-car video evidence. Car 16 attempted to overtake Car 44 on the inside at Turn 7. The Stewards noted that Car 16 initiated the overtaking manoeuvre from a considerable distance behind Car 44, attempting to position his car on the inside. In assessing the incident, the Stewards also took into account the FIA Driving Standards Guidelines, in particular the criteria applicable to overtaking manoeuvres on the inside of a corner. The Stewards determined that the front axle of Car 16 was not at least alongside the mirror of Car 44 at the apex of the corner. The Stewards therefore determined that Car 16 had not earned the right to the corner at Turn 7 and was wholly to blame for the resulting collision. Accordingly, the Stewards imposed a 10-second time penalty.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     }
+    ],
+    "refs": [
+     60
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-11-21T22:11"
+  },
+  {
+   "num": 59,
+   "title": "Doc 59 - Provisional Race Classification",
+   "subject": "Provisional Race Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_las_vegas_grand_prix_-_provisional_race_classification.pdf",
+   "published": "2026-11-22T06:51",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-21T21:51"
+  },
   {
    "num": 58,
    "title": "Doc 58 - Summons - Incident between Car 63 and Car 6",
@@ -80,6 +130,21 @@
     63
    ],
    "type": "Summons",
+   "details": {
+    "no_driver": "63 - George Russell",
+    "reason": "Alleged breach of Article 12.2.1.M. of the FIA International Sporting Code, Article B.5.13.2 of the Formula One Sporting Regulations by Car 6.",
+    "from": "The Stewards",
+    "competitor": "Mercedes-AMG PETRONAS F1 Team",
+    "drivers": [
+     {
+      "car": 63,
+      "name": "George Russell"
+     }
+    ],
+    "refs": [
+     58
+    ]
+   },
    "published_local": "2026-11-21T21:45"
   },
   {
@@ -95,6 +160,21 @@
     63
    ],
    "type": "Summons",
+   "details": {
+    "no_driver": "6 - Isack Hadjar",
+    "reason": "Alleged breach of Article 12.2.1.M. of the FIA International Sporting Code, Article B 5.13.2 of the Formula One Sporting Regulations by Car 6.",
+    "from": "The Stewards",
+    "competitor": "Oracle Red Bull Racing",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     }
+    ],
+    "refs": [
+     57
+    ]
+   },
    "published_local": "2026-11-21T21:37"
   },
   {
@@ -110,6 +190,21 @@
     51
    ],
    "type": "Summons",
+   "details": {
+    "no_driver": "51 - Rafael Camara",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code – Turn 14 incident between Cars 51 and 11 at 20:33.",
+    "from": "The Stewards",
+    "competitor": "TGR Haas F1 Team",
+    "drivers": [
+     {
+      "car": 51,
+      "name": "Rafael Camara"
+     }
+    ],
+    "refs": [
+     56
+    ]
+   },
    "published_local": "2026-11-21T21:36"
   },
   {
@@ -125,6 +220,21 @@
     51
    ],
    "type": "Summons",
+   "details": {
+    "no_driver": "11 - Sergio Perez",
+    "reason": "Alleged breach of Appendix L, Chapter IV, Article 2 d) of the FIA International Sporting Code – Turn 14 incident between Cars 11 and 51 at 20:33.",
+    "from": "The Stewards",
+    "competitor": "Cadillac Formula 1 Team",
+    "drivers": [
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     }
+    ],
+    "refs": [
+     55
+    ]
+   },
    "published_local": "2026-11-21T21:35"
   },
   {
@@ -139,6 +249,30 @@
     44
    ],
    "type": "Infringement",
+   "details": {
+    "no_driver": "44 - Lewis Hamilton",
+    "competitor": "Scuderia Ferrari HP",
+    "time": "20:22",
+    "session": "Race",
+    "fact": "Car 44 left the track at Turn 8 at 20:22, while defending a position and gained a lasting advantage.",
+    "infringement": "Breach of Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "10 second time penalty.",
+    "reason": "The Stewards reviewed video, timing and in-car video evidence. Car 1 (NOR) attempted to overtake Car 44 (HAM) on the left-hand side approaching Turn 7. At the apex, the front axle of Car 1 was at least alongside of the mirror of Car 44. Applying the Driving Standards Guidelines, the Stewards determined that Car 1 was entitled to the corner. Car 44 remained alongside Car 1 and subsequently crossed the white line on the right-hand side, leaving the track. By doing so, Car 44 avoided a potential collision but maintained its position ahead of Car 1. By leaving the track while defending, Car 44 therefore is considered as having gained a lasting advantage. Car 44 did not concede the position to Car 1, as he should have done. The Stewards therefore determined that Car 44 had left the track and gained a lasting advantage.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     }
+    ],
+    "refs": [
+     54
+    ],
+    "tags": [
+     "10s time penalty"
+    ],
+    "outcome": "penalty"
+   },
    "published_local": "2026-11-21T21:25"
   },
   {
