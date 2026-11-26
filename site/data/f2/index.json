@@ -736,6 +736,30 @@
     "race_director": 4
    },
    "round": 12
+  },
+  {
+   "slug": "lusail",
+   "name": "Lusail",
+   "fia_url": "https://www.fia.com/documents/championships/formula-2-championship-44/season/season-2026-2072/event/Lusail",
+   "doc_count": 7,
+   "first_published": "2026-11-26T11:01",
+   "last_published": "2026-11-26T16:50",
+   "first_local": "2026-11-26T13:01",
+   "last_local": "2026-11-26T18:50",
+   "utc_offset_min": 180,
+   "tz_source": "name",
+   "sessions": [],
+   "location": {
+    "circuit": "Lusail International Circuit",
+    "lat": 25.49,
+    "lon": 51.4542
+   },
+   "counts": {
+    "admin": 4,
+    "technical": 1,
+    "race_director": 2
+   },
+   "round": 13
   }
  ],
  "categories": [

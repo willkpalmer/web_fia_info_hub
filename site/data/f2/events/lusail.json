@@ -1,0 +1,105 @@
+{
+ "event": {
+  "slug": "lusail",
+  "name": "Lusail",
+  "fia_url": "https://www.fia.com/documents/championships/formula-2-championship-44/season/season-2026-2072/event/Lusail",
+  "doc_count": 7,
+  "first_published": "2026-11-26T11:01",
+  "last_published": "2026-11-26T16:50",
+  "first_local": "2026-11-26T13:01",
+  "last_local": "2026-11-26T18:50",
+  "utc_offset_min": 180,
+  "tz_source": "name",
+  "sessions": [],
+  "location": {
+   "circuit": "Lusail International Circuit",
+   "lat": 25.49,
+   "lon": 51.4542
+  },
+  "counts": {
+   "admin": 4,
+   "technical": 1,
+   "race_director": 2
+  }
+ },
+ "season": "Season 2026",
+ "documents": [
+  {
+   "num": 7,
+   "title": "Doc 7 - F2 Lusail Entry List",
+   "subject": "F2 Lusail Entry List",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_f2_lusail_entry_list.pdf",
+   "published": "2026-11-26T16:50",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-26T18:50"
+  },
+  {
+   "num": 6,
+   "title": "Doc 6 - Technical Report 1",
+   "subject": "Technical Report 1",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_technical_report_1.pdf",
+   "published": "2026-11-26T16:21",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-26T18:21"
+  },
+  {
+   "num": 5,
+   "title": "Doc 5 - Circuit Map - Lusail 2026",
+   "subject": "Circuit Map - Lusail 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_circuit_map_-_lusail_2026.pdf",
+   "published": "2026-11-26T12:58",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-26T14:58"
+  },
+  {
+   "num": 4,
+   "title": "Doc 4 - F2 Lusail Competition Notes 2026 v1",
+   "subject": "F2 Lusail Competition Notes 2026 v1",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_f2_lusail_competition_notes_2026_v1.pdf",
+   "published": "2026-11-26T12:42",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-26T14:42"
+  },
+  {
+   "num": 3,
+   "title": "Doc 3 - Bulletin 2 - Team Manager and Driver Briefing",
+   "subject": "Bulletin 2 - Team Manager and Driver Briefing",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_bulletin_2_-_team_manager_and_driver_briefing.pdf",
+   "published": "2026-11-26T12:26",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-26T14:26"
+  },
+  {
+   "num": 2,
+   "title": "Doc 2 - Bulletin 1 - Restricted Periods",
+   "subject": "Bulletin 1 - Restricted Periods",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_bulletin_1_-_restricted_periods.pdf",
+   "published": "2026-11-26T12:25",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-26T14:25"
+  },
+  {
+   "num": 1,
+   "title": "Doc 1 - VISA - F2 Lusail 2026",
+   "subject": "VISA - F2 Lusail 2026",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_visa_-_f2_lusail_2026.pdf",
+   "published": "2026-11-26T11:01",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-26T13:01"
+  }
+ ]
+}
