@@ -1418,13 +1418,13 @@
    "slug": "qatar-grand-prix",
    "name": "Qatar Grand Prix",
    "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Qatar%20Grand%20Prix",
-   "doc_count": 3,
+   "doc_count": 7,
    "first_published": "2026-11-25T14:31",
-   "last_published": "2026-11-25T15:05",
+   "last_published": "2026-11-26T19:08",
    "first_local": "2026-11-25T16:31",
-   "last_local": "2026-11-25T17:05",
+   "last_local": "2026-11-26T21:08",
    "utc_offset_min": 180,
-   "tz_source": "name",
+   "tz_source": "pdf",
    "sessions": [
     {
      "name": "Practice 1",
@@ -1473,8 +1473,9 @@
     "lon": 51.4542
    },
    "counts": {
+    "race_director": 4,
+    "stewards": 1,
     "technical": 1,
-    "race_director": 1,
     "admin": 1
    },
    "round": 22
