@@ -3,11 +3,11 @@
   "slug": "lusail",
   "name": "Lusail",
   "fia_url": "https://www.fia.com/documents/championships/formula-2-championship-44/season/season-2026-2072/event/Lusail",
-  "doc_count": 16,
+  "doc_count": 17,
   "first_published": "2026-11-26T11:01",
-  "last_published": "2026-11-27T16:52",
+  "last_published": "2026-11-27T17:48",
   "first_local": "2026-11-26T13:01",
-  "last_local": "2026-11-27T18:52",
+  "last_local": "2026-11-27T19:48",
   "utc_offset_min": 180,
   "tz_source": "pdf",
   "sessions": [
@@ -34,8 +34,8 @@
    "lon": 51.4542
   },
   "counts": {
+   "stewards": 6,
    "results": 2,
-   "stewards": 5,
    "race_director": 4,
    "admin": 4,
    "technical": 1
@@ -43,6 +43,50 @@
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 17,
+   "title": "Doc 17 - INFRINGEMENT - Car 4 practice start - end of FP",
+   "subject": "INFRINGEMENT - Car 4 practice start - end of FP",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_infringement_-_car_4_practice_start_-_end_of_fp.pdf",
+   "published": "2026-11-27T17:48",
+   "recalled": false,
+   "cars": [
+    4
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "4 - Roman Bilinski",
+    "competitor": "Hitech",
+    "time": "14:51",
+    "session": "Practice",
+    "fact": "Car 4 failed to comply with Race Director instructions regarding the Practice Starts on the grid at the end of the Practice Session.",
+    "infringement": "Breach of Article 12.2.1.i of the FIA International Sporting Code - Race Director Competition notes Item 15.4 b.",
+    "decision": "Reprimand given to the Driver of Car 4. This is his first Driving Reprimand of the 2026 Season.",
+    "reason": "The Stewards summoned (Document 11) and heard from the driver of Car 4 (Bilinski) and the team representative, and reviewed video evidence. At the end of Free Practice, Car 4 approached the grid to carry out a practice start. The driver stated that he engaged the launch procedure before the last corner. On the approach to the grid, he saw that Car 3 (Miyata) was stationary ahead of him on the same side of the grid, with its rear light flashing. He understood this to mean that Car 3 may have been in anti-stall mode. He stated that, as he was holding both clutch paddles, he could not cancel the launch procedure, and that releasing the clutch would have launched the car. Car 4 then carried out a practice start while Car 3 was still stationary two grid positions ahead of it on the same side of the grid. The Stewards queried this with the FIA Technical Delegate and the F2 Technical Director, who confirmed that the launch procedure can be cancelled. Paragraph 15.4 b) of the Race Director's Competition Notes (Document 9) states: \"Under no circumstances should a driver make a practice start if another car is still stationary ahead on the same side of the grid.\" Having considered the matter extensively, the Stewards determined that the driver of Car 4 failed to follow that instruction and is in breach of Article 12.2.1.i of the FIA International Sporting Code, and he is penalised accordingly.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 4,
+      "name": "Roman Bilinski"
+     }
+    ],
+    "refs": [
+     9,
+     11,
+     17
+    ],
+    "tags": [
+     "Reprimand"
+    ],
+    "outcome": "reprimand"
+   },
+   "related": [
+    9,
+    11
+   ],
+   "published_local": "2026-11-27T19:48"
+  },
   {
    "num": 16,
    "title": "Doc 16 - F2 Qualifying - provisional classification",
@@ -316,6 +360,9 @@
      11
     ]
    },
+   "related": [
+    17
+   ],
    "published_local": "2026-11-27T15:23"
   },
   {
@@ -338,6 +385,9 @@
    "published": "2026-11-27T09:47",
    "recalled": false,
    "cars": [],
+   "related": [
+    17
+   ],
    "published_local": "2026-11-27T11:47"
   },
   {
