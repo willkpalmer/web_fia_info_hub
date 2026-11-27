@@ -3,11 +3,11 @@
   "slug": "qatar-grand-prix",
   "name": "Qatar Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Qatar%20Grand%20Prix",
-  "doc_count": 16,
+  "doc_count": 18,
   "first_published": "2026-11-25T14:31",
-  "last_published": "2026-11-27T15:45",
+  "last_published": "2026-11-27T17:23",
   "first_local": "2026-11-25T16:31",
-  "last_local": "2026-11-27T17:45",
+  "last_local": "2026-11-27T19:23",
   "utc_offset_min": 180,
   "tz_source": "pdf",
   "sessions": [
@@ -58,8 +58,8 @@
    "lon": 51.4542
   },
   "counts": {
+   "stewards": 4,
    "results": 1,
-   "stewards": 2,
    "race_director": 7,
    "technical": 4,
    "admin": 2
@@ -67,6 +67,140 @@
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 18,
+   "title": "Doc 18 - Infringement - Car 6 - Unsafe act",
+   "subject": "Infringement - Car 6 - Unsafe act",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_infringement_-_car_6_-_unsafe_act.pdf",
+   "published": "2026-11-27T17:23",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "6 - Isack Hadjar",
+    "competitor": "Oracle Red Bull Racing",
+    "time": "16:45",
+    "session": "Free Practice 1",
+    "fact": "Car 6 was starting to leave the pit box whilst a mechanic was still working on the car.",
+    "infringement": "Breach of Article 12.2.1.h of the FIA International Sporting Code.",
+    "decision": "The competitor (Oracle Red Bull Racing) is fined €30,000, €20,000 of which is suspended for a period of 12 months subject to there being no further breach of this Article by the Competitor.",
+    "reason": "The Stewards heard from the team representative and reviewed video and in-car video evidence. The team representative explained that a new team member had placed a blower to cool the left rear brakes when in fact this was not normal procedure. Consequently the car commenced the pit box release procedure prior to the team member having removed the blower. This resulted in the car starting to leave the pit box with part of the blower still in place, and more importantly, the team member’s foot made contact with the rear left wheel of the car. This could have resulted in injury to the team member. The safety of team members during a pit stop is of the upmost importance irrespective of the session being free practice or a race. The team representative conceded that this was a procedural error on the part of the team. The penalty imposed is consistent with the penalties applied to similar incidents in recent years.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     }
+    ],
+    "refs": [
+     15,
+     18
+    ],
+    "tags": [
+     "Suspended",
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 30000
+   },
+   "related": [
+    15
+   ],
+   "published_local": "2026-11-27T19:23"
+  },
+  {
+   "num": 17,
+   "title": "Doc 17 - Infringement - Free Practice 1 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 1 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf",
+   "published": "2026-11-27T17:20",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 1",
+    "fact": "The F1 Cars below did not use the track at turns 1, 2, 3, 4, 5, 6, 8, 10, 14, 15 and 16.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "27": 2,
+     "18": 7,
+     "55": 3,
+     "16": 4,
+     "23": 2,
+     "10": 2,
+     "81": 3,
+     "5": 3,
+     "30": 1,
+     "63": 1,
+     "44": 2,
+     "77": 2
+    },
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 44,
+      "name": "Lewis Hamilton"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     }
+    ],
+    "refs": [
+     17
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-27T19:20"
+  },
   {
    "num": 16,
    "title": "Doc 16 - Free Practice 1 Classification",
@@ -105,6 +239,9 @@
      15
     ]
    },
+   "related": [
+    18
+   ],
    "published_local": "2026-11-27T17:23"
   },
   {
