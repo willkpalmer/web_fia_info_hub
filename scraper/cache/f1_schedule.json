@@ -560,7 +560,7 @@
    ]
   },
   "qatar": {
-   "fetched": "2026-11-27T18:12:20.352958+00:00",
+   "fetched": "2026-11-27T20:37:48.049468+00:00",
    "name": "FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2026",
    "sessions": [
     {
@@ -569,7 +569,7 @@
      "start_utc": "2026-11-27T13:30Z"
     },
     {
-     "end_utc": "2026-11-27T18:15Z",
+     "end_utc": "2026-11-27T18:00Z",
      "name": "Practice 2",
      "start_utc": "2026-11-27T17:00Z"
     },
@@ -653,7 +653,7 @@
    ]
   },
   "united-arab-emirates": {
-   "fetched": "2026-11-27T18:12:20.352958+00:00",
+   "fetched": "2026-11-27T20:37:48.049468+00:00",
    "name": "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2026",
    "sessions": [
     {

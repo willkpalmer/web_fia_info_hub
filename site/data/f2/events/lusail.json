@@ -3,11 +3,11 @@
   "slug": "lusail",
   "name": "Lusail",
   "fia_url": "https://www.fia.com/documents/championships/formula-2-championship-44/season/season-2026-2072/event/Lusail",
-  "doc_count": 20,
+  "doc_count": 31,
   "first_published": "2026-11-26T11:01",
-  "last_published": "2026-11-27T18:14",
+  "last_published": "2026-11-27T20:17",
   "first_local": "2026-11-26T13:01",
-  "last_local": "2026-11-27T20:14",
+  "last_local": "2026-11-27T22:17",
   "utc_offset_min": 180,
   "tz_source": "pdf",
   "sessions": [
@@ -34,15 +34,438 @@
    "lon": 51.4542
   },
   "counts": {
-   "stewards": 9,
-   "results": 2,
+   "results": 4,
+   "stewards": 17,
+   "technical": 2,
    "race_director": 4,
-   "admin": 4,
-   "technical": 1
+   "admin": 4
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 31,
+   "title": "Doc 31 - F2 Race 1 (Sprint) - provisional starting grid",
+   "subject": "F2 Race 1 (Sprint) - provisional starting grid",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_f2_race_1_sprint_-_provisional_starting_grid.pdf",
+   "published": "2026-11-27T20:17",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-27T22:17"
+  },
+  {
+   "num": 30,
+   "title": "Doc 30 - F2 qualifying - final classification",
+   "subject": "F2 qualifying - final classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_f2_qualifying_-_final_classification.pdf",
+   "published": "2026-11-27T20:16",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-27T22:16"
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - INFRINGEMENT - Qualifying - double waved yellow flag",
+   "subject": "INFRINGEMENT - Qualifying - double waved yellow flag",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_infringement_-_qualifying_-_double_waved_yellow_flag.pdf",
+   "published": "2026-11-27T20:07",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "Lap time cancellation – times set under double waved yellow flag.",
+    "from": "The Stewards",
+    "table_rows": {
+     "17": 2,
+     "21": 2,
+     "2": 1,
+     "7": 1,
+     "16": 1,
+     "14": 1
+    },
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     },
+     {
+      "car": 21,
+      "name": "Nicolas Pino"
+     },
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     },
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     },
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     },
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     }
+    ],
+    "refs": [
+     29
+    ],
+    "decision": "Lap times deleted for the cars listed.",
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-27T22:07"
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - INFRINGEMENT - Qualifying - track limit violations",
+   "subject": "INFRINGEMENT - Qualifying - track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_infringement_-_qualifying_-_track_limit_violations.pdf",
+   "published": "2026-11-27T20:06",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Qualifying",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations. LUSAIL EVENT 26 TO 29 NOVEMBER 2026",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 17.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "17": 2,
+     "7": 2,
+     "9": 2,
+     "8": 1,
+     "23": 1,
+     "16": 2,
+     "21": 2,
+     "24": 1,
+     "6": 2,
+     "1": 1,
+     "10": 1
+    },
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     },
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     },
+     {
+      "car": 9,
+      "name": "Gabriele Mini"
+     },
+     {
+      "car": 8,
+      "name": "Sebastian Montoya"
+     },
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     },
+     {
+      "car": 21,
+      "name": "Nicolas Pino"
+     },
+     {
+      "car": 24,
+      "name": "Laurens Van Hoepen"
+     },
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     },
+     {
+      "car": 1,
+      "name": "Freddie Slater"
+     },
+     {
+      "car": 10,
+      "name": "Oliver Goethe"
+     }
+    ],
+    "refs": [
+     28
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-27T22:06"
+  },
+  {
+   "num": 27,
+   "title": "Doc 27 - INFRINGEMENT - Car 8 - released in an unsafe condition",
+   "subject": "INFRINGEMENT - Car 8 - released in an unsafe condition",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_infringement_-_car_8_-_released_in_an_unsafe_condition.pdf",
+   "published": "2026-11-27T20:01",
+   "recalled": false,
+   "cars": [
+    8
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "8 - Sebastian Montoya",
+    "competitor": "DAMS Lucas Oil",
+    "time": "18:24",
+    "session": "Qualifying",
+    "fact": "Car 8 was released in an unsafe condition during the Qualifying session.",
+    "infringement": "Breach of Article 28.12 (b) of the FIA Formula 2 Sporting Regulations.",
+    "decision": "A fine of 2500 Euros to be paid by the Competitor. In accordance with Article 12.8.1 of the ISC, fines shall be paid within forty‐eight hours of their notification by means of bank transfer to the FIA.",
+    "reason": "The Stewards summoned (Document 19) and heard the Driver of Car 8 (Montoya) and the team representative. They examined video evidence. The Stewards also received information from the FIA Technical Delegate. During the qualifying session, Car 8 was released from the pit lane. By the time the car arrived at Turn 2, the driver felt that the right rear wheel was not attached correctly. He radioed the Team who advised him to return to the pit lane for it to be tightened. The wheel nut was seen to detach from the car, and then the right rear wheel also detached from the car. Car 8 retired from the session at Turn 15, causing a red flag to be issued. Given the evidence, and the statement from the Team Representative during the hearing that the responsibility for the error lay solely with the Team, the Stewards concluded that the Team released the car in an unsafe condition by not fully fitting and tightening the right rear wheel. The team is penalised accordingly.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 8,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     19,
+     27
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 2500
+   },
+   "related": [
+    19
+   ],
+   "published_local": "2026-11-27T22:01"
+  },
+  {
+   "num": 26,
+   "title": "Doc 26 - DECISION - Car 25 - yellow flag infringement in Qualifying",
+   "subject": "DECISION - Car 25 - yellow flag infringement in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_decision_-_car_25_-_yellow_flag_infringement_in_qualifying.pdf",
+   "published": "2026-11-27T20:00",
+   "recalled": false,
+   "cars": [
+    25
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "25 - John Bennett",
+    "competitor": "Trident Motorsport",
+    "time": "18:34",
+    "session": "Qualifying",
+    "fact": "Car 25 (Bennett) was alleged to have failed to respect the yellow flag requirements at Turn 13 in Qualifying, shown because Car 1 had left the track.",
+    "infringement": "Alleged breach of Appendix H, Article 2.5.5 (b) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (document 20) and heard from the Driver of Car 25 (Bennett) and the team representative, and reviewed video evidence, GPS and marshalling sector times. The Driver shared his telemetry data and explained that he reduced his speed in reaction to the yellow flags that were issued between Turns 11 through 14. The Stewards were satisfied that the driver of Car 25 had respected the requirements of the yellow flag regulations as stipulated in Appendix H of the FIA ISC. Having considered the matter extensively, the Stewards therefore determined to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 25,
+      "name": "John Bennett"
+     }
+    ],
+    "refs": [
+     20,
+     26
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    20
+   ],
+   "published_local": "2026-11-27T22:00"
+  },
+  {
+   "num": 25,
+   "title": "Doc 25 - Technical Report 2",
+   "subject": "Technical Report 2",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_technical_report_2.pdf",
+   "published": "2026-11-27T19:39",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-27T21:39"
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - DECISION - Car 8 - alleged sole cause of red flag in Qualifying",
+   "subject": "DECISION - Car 8 - alleged sole cause of red flag in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_decision_-_car_8_-_alleged_sole_cause_of_red_flag_in_qualifying.pdf",
+   "published": "2026-11-27T19:28",
+   "recalled": false,
+   "cars": [
+    8
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "8 - Sebastian Montoya",
+    "competitor": "DAMS Lucas Oil",
+    "time": "18:24",
+    "session": "Qualifying",
+    "fact": "Car 8 was alleged to have been the sole cause of the red flag issued at 18:24 in Qualifying.",
+    "infringement": "Alleged breach of Article 33.5 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Document 19) and heard the Driver of Car 8 (Montoya) and the team representative. They examined video evidence. The Stewards also received information from the FIA Technical Delegate. During the qualifying session, Car 8 was released from the pit lane. By the time the car arrived at Turn 2, the driver felt that the right rear wheel was not attached correctly. He radioed the Team who advised him to return to the pit lane for it to be tightened. The wheel nut was seen to detach from the car, and then the right rear wheel also detached from the car. Car 8 retired from the session at Turn 15, causing a red flag to be issued. Given the evidence the Stewards concluded that the driver was not the sole cause of the issuance of the Red Flag and therefore take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 8,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     19,
+     24
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    19
+   ],
+   "published_local": "2026-11-27T21:28"
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - DECISION - Car 23 - alleged sole cause of red flag in Qualifying",
+   "subject": "DECISION - Car 23 - alleged sole cause of red flag in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_decision_-_car_23_-_alleged_sole_cause_of_red_flag_in_qualifying.pdf",
+   "published": "2026-11-27T19:27",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "23 - Rafael Villagomez",
+    "competitor": "Van Amersfoort Racing",
+    "time": "18:36",
+    "session": "Qualifying",
+    "fact": "Car 23 was alleged to have been the sole cause of the red flag issued at 18:36 in Qualifying.",
+    "infringement": "Alleged breach of Article 33.5 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "No further action.",
+    "reason": "The Stewards summoned (Document 18) and heard the Driver of Car 23 (Villagomez) and the team representative. They examined video evidence. The Stewards also received information from the FIA Technical Delegate. Towards the end of the qualifying session, Car 23 stopped on track causing a Red Flag. The Stewards requested the Technical Delegate to offer an opinion as to why the car stopped on track. The Technical Delegate indicated that it appeared to be a technical fault outside of the control of the driver. At the hearing the driver reported that the car lost power on the track for no obvious reason and he could not continue. The Technical Delegate confirmed that there was fuel still in the fuel tank. The team reported that the cause of the malfunction was a short circuit to the fuel pump. The session was not restarted. Given the evidence the Stewards concluded that the driver was not the sole cause of the issuance of the Red Flag and therefore take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     }
+    ],
+    "refs": [
+     18,
+     23
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "related": [
+    18
+   ],
+   "published_local": "2026-11-27T21:27"
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - DECISION - Car 22 - yellow flag infringement in Qualifying",
+   "subject": "DECISION - Car 22 - yellow flag infringement in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_decision_-_car_22_-_yellow_flag_infringement_in_qualifying.pdf",
+   "published": "2026-11-27T19:24",
+   "recalled": false,
+   "cars": [
+    22
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "22 - Ugo Ugochukwu",
+    "competitor": "Van Amersfoort Racing",
+    "time": "18:34",
+    "session": "Qualifying",
+    "fact": "Car 22 (Ugochukwu) was alleged to have failed to respect the yellow flag requirements at Turn 13 in Qualifying, shown because Car 1 had left the track.",
+    "infringement": "Alleged breach of Appendix H, Article 2.5.5 (b) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed video, GPS and marshalling sector times. After reviewing all available evidence, the Stewards were satisfied that the driver of Car 22 had respected the requirements of the yellow flag regulations as stipulated in Appendix H of the ISC. On this occasion, the Stewards therefore determined to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 22,
+      "name": "Ugo Ugochukwu"
+     }
+    ],
+    "refs": [
+     22
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "published_local": "2026-11-27T21:24"
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - DECISION - Car 12 - yellow flag infringement in Qualifying",
+   "subject": "DECISION - Car 12 - yellow flag infringement in Qualifying",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_decision_-_car_12_-_yellow_flag_infringement_in_qualifying.pdf",
+   "published": "2026-11-27T19:23",
+   "recalled": false,
+   "cars": [
+    12
+   ],
+   "type": "Decision",
+   "details": {
+    "no_driver": "12 - Mari Boya",
+    "competitor": "PREMA Racing",
+    "time": "18:36",
+    "session": "Qualifying",
+    "fact": "Car 12 (Boya) was alleged to have failed to respect the yellow flag requirements at Turn 16 in Qualifying, shown because Car 23 had left the track.",
+    "infringement": "Alleged breach of Appendix H, Article 2.5.5 (b) of the FIA International Sporting Code.",
+    "decision": "No further action.",
+    "reason": "The Stewards reviewed video, GPS and marshalling sector times. After reviewing all available evidence, the Stewards were satisfied that the driver of Car 12 had respected the requirements of the yellow flag regulations as stipulated in Appendix H of the ISC. On this occasion, the Stewards therefore determined to take no further action.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     }
+    ],
+    "refs": [
+     21
+    ],
+    "tags": [
+     "No further action"
+    ],
+    "outcome": "nfa"
+   },
+   "published_local": "2026-11-27T21:23"
+  },
   {
    "num": 20,
    "title": "Doc 20 - SUMMONS - Car 25 - alleged yellow flag violation",
@@ -70,6 +493,9 @@
      20
     ]
    },
+   "related": [
+    26
+   ],
    "published_local": "2026-11-27T20:14"
   },
   {
@@ -99,6 +525,10 @@
      19
     ]
    },
+   "related": [
+    24,
+    27
+   ],
    "published_local": "2026-11-27T20:12"
   },
   {
@@ -128,6 +558,9 @@
      18
     ]
    },
+   "related": [
+    23
+   ],
    "published_local": "2026-11-27T20:10"
   },
   {

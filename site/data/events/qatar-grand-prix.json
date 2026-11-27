@@ -3,11 +3,11 @@
   "slug": "qatar-grand-prix",
   "name": "Qatar Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Qatar%20Grand%20Prix",
-  "doc_count": 19,
+  "doc_count": 25,
   "first_published": "2026-11-25T14:31",
-  "last_published": "2026-11-27T17:38",
+  "last_published": "2026-11-27T20:43",
   "first_local": "2026-11-25T16:31",
-  "last_local": "2026-11-27T19:38",
+  "last_local": "2026-11-27T22:43",
   "utc_offset_min": 180,
   "tz_source": "pdf",
   "sessions": [
@@ -22,9 +22,9 @@
    {
     "name": "Practice 2",
     "start_local": "2026-11-27T20:00",
-    "end_local": "2026-11-27T21:15",
+    "end_local": "2026-11-27T21:00",
     "start_utc": "2026-11-27T17:00Z",
-    "end_utc": "2026-11-27T18:15Z",
+    "end_utc": "2026-11-27T18:00Z",
     "source": "f1"
    },
    {
@@ -58,15 +58,198 @@
    "lon": 51.4542
   },
   "counts": {
-   "stewards": 5,
-   "results": 1,
-   "race_director": 7,
-   "technical": 4,
+   "technical": 6,
+   "stewards": 7,
+   "race_director": 8,
+   "results": 2,
    "admin": 2
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 25,
+   "title": "Doc 25 - FP1 and FP2 Scrutineering",
+   "subject": "FP1 and FP2 Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_fp1_and_fp2_scrutineering.pdf",
+   "published": "2026-11-27T20:43",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-27T22:43"
+  },
+  {
+   "num": 24,
+   "title": "Doc 24 - Infringement - Free Practice 2 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 2 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times.pdf",
+   "published": "2026-11-27T20:08",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 2",
+    "fact": "The F1 Cars below did not use the track at turns 1, 2, 4, 5, 8, 10, 11, 12, 13, 14, 15 and 16.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "43": 1,
+     "27": 2,
+     "16": 4,
+     "1": 3,
+     "5": 1,
+     "18": 3,
+     "87": 2,
+     "55": 3,
+     "11": 1,
+     "3": 1,
+     "12": 2,
+     "30": 1,
+     "81": 1,
+     "23": 1
+    },
+    "drivers": [
+     {
+      "car": 43,
+      "name": "Franco Colapinto"
+     },
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 18,
+      "name": "Lance Stroll"
+     },
+     {
+      "car": 87,
+      "name": "Oliver Bearman"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     },
+     {
+      "car": 3,
+      "name": "Max Verstappen"
+     },
+     {
+      "car": 12,
+      "name": "Kimi Antonelli"
+     },
+     {
+      "car": 30,
+      "name": "Liam Lawson"
+     },
+     {
+      "car": 81,
+      "name": "Oscar Piastri"
+     },
+     {
+      "car": 23,
+      "name": "Alexander Albon"
+     }
+    ],
+    "refs": [
+     24
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-27T22:08"
+  },
+  {
+   "num": 23,
+   "title": "Doc 23 - Race Director Notes - SC2 - SC1 Times",
+   "subject": "Race Director Notes - SC2 - SC1 Times",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf",
+   "published": "2026-11-27T19:51",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-27T21:51"
+  },
+  {
+   "num": 22,
+   "title": "Doc 22 - Drivers' Meeting, Covers-On Time and Restricted Period Three",
+   "subject": "Drivers' Meeting, Covers-On Time and Restricted Period Three",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_drivers_meeting_covers-on_time_and_restricted_period_three.pdf",
+   "published": "2026-11-27T19:49",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-27T21:49"
+  },
+  {
+   "num": 21,
+   "title": "Doc 21 - Free Practice 2 Classification",
+   "subject": "Free Practice 2 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_free_practice_2_classification.pdf",
+   "published": "2026-11-27T19:32",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-27T21:32"
+  },
+  {
+   "num": 20,
+   "title": "Doc 20 - Infringement - Car 27 - Pit Lane Speeding",
+   "subject": "Infringement - Car 27 - Pit Lane Speeding",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_infringement_-_car_27_-_pit_lane_speeding.pdf",
+   "published": "2026-11-27T19:49",
+   "recalled": false,
+   "cars": [
+    27
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "27 - Nico Hulkenberg",
+    "competitor": "Audi Revolut F1 Team",
+    "time": "21:07",
+    "session": "Free Practice 2",
+    "fact": "Pit lane speeding – 84.4 km/h",
+    "infringement": "Breach of Article B1.6.3a of the FIA F1 Regulations.",
+    "decision": "The competitor (Audi Revolut F1 Team) is fined €500.",
+    "reason": "Car 27 exceeded the pit lane speed limit which is set at 80 km/h for this event by 4.4 km/h.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 27,
+      "name": "Nico Hulkenberg"
+     }
+    ],
+    "refs": [
+     20
+    ],
+    "tags": [
+     "Fine"
+    ],
+    "outcome": "penalty",
+    "fine_eur": 500
+   },
+   "published_local": "2026-11-27T21:49"
+  },
   {
    "num": 19,
    "title": "Doc 19 - Infringement - Car 11 - Media Commitment",
