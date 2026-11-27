@@ -3,11 +3,11 @@
   "slug": "lusail",
   "name": "Lusail",
   "fia_url": "https://www.fia.com/documents/championships/formula-2-championship-44/season/season-2026-2072/event/Lusail",
-  "doc_count": 17,
+  "doc_count": 20,
   "first_published": "2026-11-26T11:01",
-  "last_published": "2026-11-27T17:48",
+  "last_published": "2026-11-27T18:14",
   "first_local": "2026-11-26T13:01",
-  "last_local": "2026-11-27T19:48",
+  "last_local": "2026-11-27T20:14",
   "utc_offset_min": 180,
   "tz_source": "pdf",
   "sessions": [
@@ -34,7 +34,7 @@
    "lon": 51.4542
   },
   "counts": {
-   "stewards": 6,
+   "stewards": 9,
    "results": 2,
    "race_director": 4,
    "admin": 4,
@@ -43,6 +43,93 @@
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 20,
+   "title": "Doc 20 - SUMMONS - Car 25 - alleged yellow flag violation",
+   "subject": "SUMMONS - Car 25 - alleged yellow flag violation",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_summons_-_car_25_-_alleged_yellow_flag_violation.pdf",
+   "published": "2026-11-27T18:14",
+   "recalled": false,
+   "cars": [
+    25
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "25 - John Bennett",
+    "reason": "Alleged breach of Appendix H Article 2.5.5 b of the FIA ISC - Car 25 alleged yellow flag violation at Turn 16 at 18:36 in Qualifying.",
+    "from": "The Stewards",
+    "competitor": "Trident Motorsport",
+    "drivers": [
+     {
+      "car": 25,
+      "name": "John Bennett"
+     }
+    ],
+    "refs": [
+     20
+    ]
+   },
+   "published_local": "2026-11-27T20:14"
+  },
+  {
+   "num": 19,
+   "title": "Doc 19 - SUMMONS - Car 8 - alleged sole cause of red flag",
+   "subject": "SUMMONS - Car 8 - alleged sole cause of red flag",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_summons_-_car_8_-_alleged_sole_cause_of_red_flag.pdf",
+   "published": "2026-11-27T18:12",
+   "recalled": false,
+   "cars": [
+    8
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "8 - Sebastian Montoya",
+    "reason": "Alleged breach of Article 33.5 of the FIA F2 Sporting Regulations - Car 8 was the alleged sole cause of the Red Flag issued at 18:24 at Turn 15 in Qualifying.",
+    "from": "The Stewards",
+    "competitor": "DAMS Lucas Oil",
+    "drivers": [
+     {
+      "car": 8,
+      "name": "Sebastian Montoya"
+     }
+    ],
+    "refs": [
+     19
+    ]
+   },
+   "published_local": "2026-11-27T20:12"
+  },
+  {
+   "num": 18,
+   "title": "Doc 18 - SUMMONS - Car 23 - alleged sole cause of red flag",
+   "subject": "SUMMONS - Car 23 - alleged sole cause of red flag",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_summons_-_car_23_-_alleged_sole_cause_of_red_flag.pdf",
+   "published": "2026-11-27T18:10",
+   "recalled": false,
+   "cars": [
+    23
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "23 - Rafael Villagomez",
+    "reason": "Alleged breach of Article 33.5 of the FIA F2 Sporting Regulations - Car 23 was the alleged sole cause of the Red Flag issued at 18:36 at Turn 16 in Qualifying.",
+    "from": "The Stewards",
+    "competitor": "Van Amersfoort Racing",
+    "drivers": [
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     }
+    ],
+    "refs": [
+     18
+    ]
+   },
+   "published_local": "2026-11-27T20:10"
+  },
   {
    "num": 17,
    "title": "Doc 17 - INFRINGEMENT - Car 4 practice start - end of FP",

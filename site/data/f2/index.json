@@ -741,11 +741,11 @@
    "slug": "lusail",
    "name": "Lusail",
    "fia_url": "https://www.fia.com/documents/championships/formula-2-championship-44/season/season-2026-2072/event/Lusail",
-   "doc_count": 17,
+   "doc_count": 20,
    "first_published": "2026-11-26T11:01",
-   "last_published": "2026-11-27T17:48",
+   "last_published": "2026-11-27T18:14",
    "first_local": "2026-11-26T13:01",
-   "last_local": "2026-11-27T19:48",
+   "last_local": "2026-11-27T20:14",
    "utc_offset_min": 180,
    "tz_source": "pdf",
    "sessions": [
@@ -772,7 +772,7 @@
     "lon": 51.4542
    },
    "counts": {
-    "stewards": 6,
+    "stewards": 9,
     "results": 2,
     "race_director": 4,
     "admin": 4,
