@@ -3,27 +3,335 @@
   "slug": "lusail",
   "name": "Lusail",
   "fia_url": "https://www.fia.com/documents/championships/formula-2-championship-44/season/season-2026-2072/event/Lusail",
-  "doc_count": 7,
+  "doc_count": 15,
   "first_published": "2026-11-26T11:01",
-  "last_published": "2026-11-26T16:50",
+  "last_published": "2026-11-27T15:57",
   "first_local": "2026-11-26T13:01",
-  "last_local": "2026-11-26T18:50",
+  "last_local": "2026-11-27T17:57",
   "utc_offset_min": 180,
-  "tz_source": "name",
-  "sessions": [],
+  "tz_source": "pdf",
+  "sessions": [
+   {
+    "name": "Practice",
+    "classified_local": "2026-11-27T15:06",
+    "start_utc": "2026-11-27T12:06Z",
+    "end_utc": "2026-11-27T12:06Z",
+    "inferred": true,
+    "source": "results"
+   }
+  ],
   "location": {
    "circuit": "Lusail International Circuit",
    "lat": 25.49,
    "lon": 51.4542
   },
   "counts": {
+   "stewards": 5,
+   "results": 1,
+   "race_director": 4,
    "admin": 4,
-   "technical": 1,
-   "race_director": 2
+   "technical": 1
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 15,
+   "title": "Doc 15 - INFRINGEMENT - Car 17 - yellow flag infringement in Practice",
+   "subject": "INFRINGEMENT - Car 17 - yellow flag infringement in Practice",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_infringement_-_car_17_-_yellow_flag_infringement_in_practice.pdf",
+   "published": "2026-11-27T15:57",
+   "recalled": false,
+   "cars": [
+    17
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "competitor": "ART Grand Prix",
+    "time": "14:21",
+    "session": "Practice",
+    "fact": "Car 17 (Inthraphuvasak) failed to respect the yellow flag requirements at Turn 11 in Practice, shown because Car 21 had left the track.",
+    "infringement": "Breach of Appendix H, Article 2.5.5 (b) of the FIA International Sporting Code.",
+    "decision": "A drop of five (5) places on the grid for the Sprint Race & Feature Race at this Competition. In addition, 2 points to be added to the driver’s record. Total for the 2026 season = 4 points.",
+    "reason": "The Stewards summoned (Document 12) and heard the Driver of Car 17 (Inthraphuvasak) and the team representative, in the presence of the FIA F2 Technical Delegate, and reviewed video, GPS, telemetry and marshalling sector times. The driver stated that he heard the yellow flag warning beep in Turn 10 and believed that he had reduced speed in that corner. The Stewards did not accept this argument, as the reduction in speed occurred before the yellow flag was displayed. Moreover, the telemetry data of Car 17, provided by the Technical Delegate, did not show any reduction in speed or any reaction from the driver to the yellow flag at Turn 11 between MP13 and MP14. Article 2.5.5 b) of Appendix H of the FIA International Sporting Code requires that, under a single waved yellow flag, it must be evident that a driver has reduced speed. Having considered the matter extensively, the Stewards determined that the driver did not reduce speed in the yellow flag sector and is in breach. Accordingly, the standard penalty for failing to slow for single yellow flags during Free Practice is applied: a drop of five grid positions and two penalty points. In accordance with Article 31.5 of the FIA F2 Sporting Regulations, the grid penalty applies to both the Sprint Race and the Feature Race.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     12,
+     15
+    ],
+    "tags": [
+     "2 penalty points"
+    ],
+    "outcome": "penalty",
+    "penalty_points": 2
+   },
+   "related": [
+    12
+   ],
+   "published_local": "2026-11-27T17:57"
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - INFRINGEMENT - Practice - Double waved yellow flag",
+   "subject": "INFRINGEMENT - Practice - Double waved yellow flag",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_infringement_-_practice_-_double_waved_yellow_flag.pdf",
+   "published": "2026-11-27T15:24",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "Lap time cancellation – times set under double waved yellow flag.",
+    "from": "The Stewards",
+    "table_rows": {
+     "2": 1,
+     "14": 1,
+     "15": 1,
+     "20": 1,
+     "7": 1
+    },
+    "drivers": [
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     },
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     },
+     {
+      "car": 15,
+      "name": "Alexander Dunne"
+     },
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     },
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     }
+    ],
+    "refs": [
+     14
+    ],
+    "decision": "Lap times deleted for the cars listed.",
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-27T17:24"
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - INFRINGEMENT - Practice - track limit violations",
+   "subject": "INFRINGEMENT - Practice - track limit violations",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_infringement_-_practice_-_track_limit_violations.pdf",
+   "published": "2026-11-27T15:21",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Practice",
+    "fact": "Failure to negotiate the turns listed below using the track.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code and Article 31.5 of the FIA Formula 2 Sporting Regulations.",
+    "reason": "The Stewards received timing information from the Race Director. The cars failed to negotiate the turns above using the track. The penalty was applied in accordance with Article 12.4.1.e of the FIA International Sporting Code as advised by the Race Director Competition Notes item 17.2.",
+    "from": "The Stewards",
+    "infringement": "Breach of Appendix L, Chapter IV, Article 2c and Article 27.3 of the FIA F2 Sporting Regulations.",
+    "table_rows": {
+     "15": 1,
+     "20": 1,
+     "14": 1,
+     "7": 3,
+     "16": 2,
+     "11": 2,
+     "2": 4,
+     "3": 2,
+     "23": 1,
+     "6": 3,
+     "21": 3,
+     "8": 3,
+     "4": 1,
+     "12": 1,
+     "5": 1
+    },
+    "drivers": [
+     {
+      "car": 15,
+      "name": "Alexander Dunne"
+     },
+     {
+      "car": 20,
+      "name": "Emerson Fittipaldi"
+     },
+     {
+      "car": 14,
+      "name": "Martinius Stenshorne"
+     },
+     {
+      "car": 7,
+      "name": "Dino Beganovic"
+     },
+     {
+      "car": 16,
+      "name": "Kush Maini"
+     },
+     {
+      "car": 11,
+      "name": "Nicola Lacorte"
+     },
+     {
+      "car": 2,
+      "name": "Joshua Durksen"
+     },
+     {
+      "car": 3,
+      "name": "Ritomo Miyata"
+     },
+     {
+      "car": 23,
+      "name": "Rafael Villagomez"
+     },
+     {
+      "car": 6,
+      "name": "Nikola Tsolov"
+     },
+     {
+      "car": 21,
+      "name": "Nicolas Pino"
+     },
+     {
+      "car": 8,
+      "name": "Sebastian Montoya"
+     },
+     {
+      "car": 4,
+      "name": "Roman Bilinski"
+     },
+     {
+      "car": 12,
+      "name": "Mari Boya"
+     },
+     {
+      "car": 5,
+      "name": "Noel Leon"
+     }
+    ],
+    "refs": [
+     13
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-27T17:21"
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - SUMMONS - Car 17 - alleged yellow flag violation",
+   "subject": "SUMMONS - Car 17 - alleged yellow flag violation",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_summons_-_car_17_-_alleged_yellow_flag_violation.pdf",
+   "published": "2026-11-27T13:26",
+   "recalled": false,
+   "cars": [
+    17
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "17 - Tasanapol Inthraphuvasak",
+    "reason": "Alleged breach of Appendix H Article 2.5.5 b of the FIA ISC - Car 17 alleged yellow flag violation at Turn 11 at 14:21 in Free Practice.",
+    "from": "The Stewards",
+    "competitor": "ART Grand Prix",
+    "drivers": [
+     {
+      "car": 17,
+      "name": "Tasanapol Inthraphuvasak"
+     }
+    ],
+    "refs": [
+     12
+    ]
+   },
+   "related": [
+    15
+   ],
+   "published_local": "2026-11-27T15:26"
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - SUMMONS - Car 4 - alleged practice start violation",
+   "subject": "SUMMONS - Car 4 - alleged practice start violation",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_summons_-_car_4_-_alleged_practice_start_violation.pdf",
+   "published": "2026-11-27T13:23",
+   "recalled": false,
+   "cars": [
+    4
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "4 - Roman Bilinski",
+    "reason": "Alleged breach of Article 12.2.1.i of the FIA ISC - alleged failure to comply with Race Director Competition Notes regarding practice starts - Item 15.4 (b).",
+    "from": "The Stewards",
+    "competitor": "Hitech",
+    "drivers": [
+     {
+      "car": 4,
+      "name": "Roman Bilinski"
+     }
+    ],
+    "refs": [
+     11
+    ]
+   },
+   "published_local": "2026-11-27T15:23"
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - F2 Free Practice - classification",
+   "subject": "F2 Free Practice - classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_f2_free_practice_-_classification.pdf",
+   "published": "2026-11-27T13:06",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-27T15:06"
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - F2 Lusail Competition Notes 2026 v2",
+   "subject": "F2 Lusail Competition Notes 2026 v2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_f2_lusail_competition_notes_2026_v2.pdf",
+   "published": "2026-11-27T09:47",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-27T11:47"
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - F2 Lusail Pit Lane Maps 2026",
+   "subject": "F2 Lusail Pit Lane Maps 2026",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_f2_lusail_pit_lane_maps_2026.pdf",
+   "published": "2026-11-27T09:38",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-27T11:38"
+  },
   {
    "num": 7,
    "title": "Doc 7 - F2 Lusail Entry List",
@@ -66,6 +374,7 @@
    "published": "2026-11-26T12:42",
    "recalled": false,
    "cars": [],
+   "superseded_by": 9,
    "published_local": "2026-11-26T14:42"
   },
   {

@@ -3,11 +3,11 @@
   "slug": "qatar-grand-prix",
   "name": "Qatar Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Qatar%20Grand%20Prix",
-  "doc_count": 7,
+  "doc_count": 16,
   "first_published": "2026-11-25T14:31",
-  "last_published": "2026-11-26T19:08",
+  "last_published": "2026-11-27T15:45",
   "first_local": "2026-11-25T16:31",
-  "last_local": "2026-11-26T21:08",
+  "last_local": "2026-11-27T17:45",
   "utc_offset_min": 180,
   "tz_source": "pdf",
   "sessions": [
@@ -58,14 +58,132 @@
    "lon": 51.4542
   },
   "counts": {
-   "race_director": 4,
-   "stewards": 1,
-   "technical": 1,
-   "admin": 1
+   "results": 1,
+   "stewards": 2,
+   "race_director": 7,
+   "technical": 4,
+   "admin": 2
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 16,
+   "title": "Doc 16 - Free Practice 1 Classification",
+   "subject": "Free Practice 1 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_free_practice_1_classification.pdf",
+   "published": "2026-11-27T15:45",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-27T17:45"
+  },
+  {
+   "num": 15,
+   "title": "Doc 15 - Summons - Car 6 - Alleged unsafe act",
+   "subject": "Summons - Car 6 - Alleged unsafe act",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_summons_-_car_6_-_alleged_unsafe_act.pdf",
+   "published": "2026-11-27T15:23",
+   "recalled": false,
+   "cars": [
+    6
+   ],
+   "type": "Summons",
+   "details": {
+    "no_driver": "6 - Isack Hadjar",
+    "reason": "Alleged breach of Article 12.2.1.h of the FIA International Sporting Code – Team personnel in an unsafe situation in the pit lane at 16:45.",
+    "from": "The Stewards",
+    "competitor": "Oracle Red Bull Racing",
+    "drivers": [
+     {
+      "car": 6,
+      "name": "Isack Hadjar"
+     }
+    ],
+    "refs": [
+     15
+    ]
+   },
+   "published_local": "2026-11-27T17:23"
+  },
+  {
+   "num": 14,
+   "title": "Doc 14 - Race Director's Competition Notes V2",
+   "subject": "Race Director's Competition Notes V2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_race_directors_competition_notes_v2.pdf",
+   "published": "2026-11-27T13:23",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-27T15:23"
+  },
+  {
+   "num": 13,
+   "title": "Doc 13 - Competition Notes - Pirelli Preview V2",
+   "subject": "Competition Notes - Pirelli Preview V2",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_competition_notes_-_pirelli_preview_v2.pdf",
+   "published": "2026-11-27T13:21",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-27T15:21"
+  },
+  {
+   "num": 12,
+   "title": "Doc 12 - Car Presentation Submissions",
+   "subject": "Car Presentation Submissions",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_car_presentation_submissions.pdf",
+   "published": "2026-11-27T12:00",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-27T14:00"
+  },
+  {
+   "num": 11,
+   "title": "Doc 11 - Entry List",
+   "subject": "Entry List",
+   "category": "admin",
+   "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_entry_list.pdf",
+   "published": "2026-11-27T11:35",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-27T13:35"
+  },
+  {
+   "num": 10,
+   "title": "Doc 10 - Curfew",
+   "subject": "Curfew",
+   "category": "race_director",
+   "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_curfew.pdf",
+   "published": "2026-11-27T10:57",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-27T12:57"
+  },
+  {
+   "num": 9,
+   "title": "Doc 9 - Self Scrutineering",
+   "subject": "Self Scrutineering",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_self_scrutineering.pdf",
+   "published": "2026-11-27T10:38",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-27T12:38"
+  },
+  {
+   "num": 8,
+   "title": "Doc 8 - PU Elements used per Driver up to now",
+   "subject": "PU Elements used per Driver up to now",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf",
+   "published": "2026-11-27T10:37",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-27T12:37"
+  },
   {
    "num": 7,
    "title": "Doc 7 - Competition Notes - Circuit Map, Pit Lane Drawing, Emergency Exits Map and Red Zone",
@@ -86,6 +204,7 @@
    "published": "2026-11-26T19:06",
    "recalled": false,
    "cars": [],
+   "superseded_by": 14,
    "published_local": "2026-11-26T21:06"
   },
   {
@@ -148,6 +267,7 @@
    "published": "2026-11-25T14:41",
    "recalled": false,
    "cars": [],
+   "superseded_by": 13,
    "published_local": "2026-11-25T16:41"
   },
   {
