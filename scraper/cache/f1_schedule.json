@@ -1,5 +1,5 @@
 {
- "list_fetched": "2026-11-27T15:01:47.391980+00:00",
+ "list_fetched": "2026-11-28T09:23:42.492696+00:00",
  "races": {
   "australia": {
    "fetched": "2026-11-06T15:56:03.522317+00:00",
@@ -560,7 +560,7 @@
    ]
   },
   "qatar": {
-   "fetched": "2026-11-28T01:29:02.064660+00:00",
+   "fetched": "2026-11-28T09:23:42.492696+00:00",
    "name": "FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2026",
    "sessions": [
     {
@@ -653,7 +653,7 @@
    ]
   },
   "united-arab-emirates": {
-   "fetched": "2026-11-28T01:29:02.064660+00:00",
+   "fetched": "2026-11-28T09:23:42.492696+00:00",
    "name": "FORMULA 1 ETIHAD AIRWAYS ABU DHABI GRAND PRIX 2026",
    "sessions": [
     {
