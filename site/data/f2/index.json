@@ -741,11 +741,11 @@
    "slug": "lusail",
    "name": "Lusail",
    "fia_url": "https://www.fia.com/documents/championships/formula-2-championship-44/season/season-2026-2072/event/Lusail",
-   "doc_count": 33,
+   "doc_count": 35,
    "first_published": "2026-11-26T11:01",
-   "last_published": "2026-11-28T16:15",
+   "last_published": "2026-11-28T18:27",
    "first_local": "2026-11-26T13:01",
-   "last_local": "2026-11-28T18:15",
+   "last_local": "2026-11-28T20:27",
    "utc_offset_min": 180,
    "tz_source": "pdf",
    "sessions": [
@@ -764,6 +764,14 @@
      "end_utc": "2026-11-27T15:52Z",
      "inferred": true,
      "source": "results"
+    },
+    {
+     "name": "Sprint Race",
+     "classified_local": "2026-11-28T20:13",
+     "start_utc": "2026-11-28T17:13Z",
+     "end_utc": "2026-11-28T17:13Z",
+     "inferred": true,
+     "source": "results"
     }
    ],
    "location": {
@@ -772,9 +780,9 @@
     "lon": 51.4542
    },
    "counts": {
-    "results": 5,
+    "stewards": 18,
+    "results": 6,
     "technical": 3,
-    "stewards": 17,
     "race_director": 4,
     "admin": 4
    },

@@ -3,11 +3,11 @@
   "slug": "qatar-grand-prix",
   "name": "Qatar Grand Prix",
   "fia_url": "https://www.fia.com/documents/championships/fia-formula-one-world-championship-14/season/season-2026-2072/event/Qatar%20Grand%20Prix",
-  "doc_count": 27,
+  "doc_count": 30,
   "first_published": "2026-11-25T14:31",
-  "last_published": "2026-11-28T12:46",
+  "last_published": "2026-11-28T17:05",
   "first_local": "2026-11-25T16:31",
-  "last_local": "2026-11-28T14:46",
+  "last_local": "2026-11-28T19:05",
   "utc_offset_min": 180,
   "tz_source": "pdf",
   "sessions": [
@@ -58,15 +58,112 @@
    "lon": 51.4542
   },
   "counts": {
+   "technical": 7,
+   "stewards": 8,
+   "results": 3,
    "race_director": 10,
-   "technical": 6,
-   "stewards": 7,
-   "results": 2,
    "admin": 2
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 30,
+   "title": "Doc 30 - Power Unit Information V2",
+   "subject": "Power Unit Information V2",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_power_unit_information_v2.pdf",
+   "published": "2026-11-28T17:05",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-28T19:05"
+  },
+  {
+   "num": 29,
+   "title": "Doc 29 - Infringement - Free Practice 3 Deleted Lap Times",
+   "subject": "Infringement - Free Practice 3 Deleted Lap Times",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_infringement_-_free_practice_3_deleted_lap_times.pdf",
+   "published": "2026-11-28T17:00",
+   "recalled": false,
+   "cars": [],
+   "type": "Infringement",
+   "details": {
+    "session": "Free Practice 3",
+    "fact": "The F1 Cars below did not use the track at turns 1, 2, 4, 5, 14, and 15.",
+    "infringement": "Breach of Appendix L Chapter IV Article 2 c) of the FIA International Sporting Code and Article B1.8.6 of the FIA F1 Regulations.",
+    "decision": "Deletion of the lap times shown in accordance with Article 12.4.1.e of the FIA International Sporting Code.",
+    "from": "The Stewards",
+    "table_rows": {
+     "1": 1,
+     "5": 2,
+     "63": 1,
+     "16": 1,
+     "41": 1,
+     "10": 1,
+     "55": 1,
+     "11": 1,
+     "77": 1
+    },
+    "drivers": [
+     {
+      "car": 1,
+      "name": "Lando Norris"
+     },
+     {
+      "car": 5,
+      "name": "Gabriel Bortoleto"
+     },
+     {
+      "car": 63,
+      "name": "George Russell"
+     },
+     {
+      "car": 16,
+      "name": "Charles Leclerc"
+     },
+     {
+      "car": 41,
+      "name": "Arvid Lindblad"
+     },
+     {
+      "car": 10,
+      "name": "Pierre Gasly"
+     },
+     {
+      "car": 55,
+      "name": "Carlos Sainz"
+     },
+     {
+      "car": 11,
+      "name": "Sergio Perez"
+     },
+     {
+      "car": 77,
+      "name": "Valtteri Bottas"
+     }
+    ],
+    "refs": [
+     29
+    ],
+    "tags": [
+     "Lap time deleted"
+    ],
+    "outcome": "deleted"
+   },
+   "published_local": "2026-11-28T19:00"
+  },
+  {
+   "num": 28,
+   "title": "Doc 28 - Free Practice 3 Classification",
+   "subject": "Free Practice 3 Classification",
+   "category": "results",
+   "url": "https://www.fia.com/system/files/decision-document/2026_qatar_grand_prix_-_free_practice_3_classification.pdf",
+   "published": "2026-11-28T16:50",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-28T18:50"
+  },
   {
    "num": 27,
    "title": "Doc 27 - Curfew",
@@ -642,6 +739,7 @@
    "published": "2026-11-25T15:05",
    "recalled": false,
    "cars": [],
+   "superseded_by": 30,
    "published_local": "2026-11-25T17:05"
   },
   {

@@ -3207,6 +3207,46 @@
   {
    "event": "Lusail",
    "event_slug": "lusail",
+   "num": 35,
+   "title": "Doc 35 - INFRINGEMENT - Car 21 - out of position at SCL1",
+   "subject": "INFRINGEMENT - Car 21 - out of position at SCL1",
+   "category": "stewards",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_infringement_-_car_21_-_out_of_position_at_scl1.pdf",
+   "published": "2026-11-28T18:27",
+   "recalled": false,
+   "cars": [
+    21
+   ],
+   "type": "Infringement",
+   "details": {
+    "no_driver": "21 - Nicolas Pino",
+    "competitor": "AIX Racing",
+    "time": "19:17",
+    "session": "Race 1",
+    "fact": "Car 21 (Pino) was ahead of Car 11 (Lacorte) at SCL1, and failed to start Race 1 from the pit lane.",
+    "infringement": "Breach of Article 37.8 of the FIA Formula 2 Sporting Regulations.",
+    "decision": "Stop & Go Penalty in accordance with Article 39.3 (d) of the FIA F2 Sporting Regulations (served).",
+    "reason": "The Stewards examined video and GPS evidence. Car 21 (Pino) overtook Car 11 (Lacorte) during the formation lap. Car 11 was not delayed in leaving the grid. Car 21 did not re-establish the original grid starting order before reaching Safety Car Line 1 and proceeded to start the race from his assigned grid position rather than entering the pits and starting from the end of the pit lane as prescribed in Article 37.8 of the F2 Sporting Regulations. Having considered the matter extensively, the Stewards deem Car 21 in breach and apply the mandatory penalty as prescribed in the F2 Sporting Regulations.",
+    "from": "The Stewards",
+    "drivers": [
+     {
+      "car": 21,
+      "name": "Nicolas Pino"
+     }
+    ],
+    "refs": [
+     35
+    ],
+    "tags": [
+     "Stop & go"
+    ],
+    "outcome": "penalty"
+   },
+   "published_local": "2026-11-28T20:27"
+  },
+  {
+   "event": "Lusail",
+   "event_slug": "lusail",
    "num": 29,
    "title": "Doc 29 - INFRINGEMENT - Qualifying - double waved yellow flag",
    "subject": "INFRINGEMENT - Qualifying - double waved yellow flag",
