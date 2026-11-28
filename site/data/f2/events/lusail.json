@@ -3,11 +3,11 @@
   "slug": "lusail",
   "name": "Lusail",
   "fia_url": "https://www.fia.com/documents/championships/formula-2-championship-44/season/season-2026-2072/event/Lusail",
-  "doc_count": 31,
+  "doc_count": 32,
   "first_published": "2026-11-26T11:01",
-  "last_published": "2026-11-27T20:17",
+  "last_published": "2026-11-28T14:03",
   "first_local": "2026-11-26T13:01",
-  "last_local": "2026-11-27T22:17",
+  "last_local": "2026-11-28T16:03",
   "utc_offset_min": 180,
   "tz_source": "pdf",
   "sessions": [
@@ -34,15 +34,26 @@
    "lon": 51.4542
   },
   "counts": {
+   "technical": 3,
    "results": 4,
    "stewards": 17,
-   "technical": 2,
    "race_director": 4,
    "admin": 4
   }
  },
  "season": "Season 2026",
  "documents": [
+  {
+   "num": 32,
+   "title": "Doc 32 - Podium and Parc Ferme instructions - Lusail",
+   "subject": "Podium and Parc Ferme instructions - Lusail",
+   "category": "technical",
+   "url": "https://www.fia.com/system/files/decision-document/2026_lusail_event_-_podium_and_parc_ferme_instructions_-_lusail.pdf",
+   "published": "2026-11-28T14:03",
+   "recalled": false,
+   "cars": [],
+   "published_local": "2026-11-28T16:03"
+  },
   {
    "num": 31,
    "title": "Doc 31 - F2 Race 1 (Sprint) - provisional starting grid",
